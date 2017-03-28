@@ -1,0 +1,41 @@
+### Lamm "Cassablanca"
+
+#### Zutaten für 4 Personen
+ * 1 Lammkeule, etwa 1,7kg
+ * 3 mittelgroße Zwiebeln
+ * 8 Knoblauchzehen ohne Keim
+ * 8 EL Olivenöl
+ * 2 Dosen geschälte Tomaten (à 450g)
+ * 1 TL gemahlener Kreuzkümmel
+ * 1 Zimtstange
+ * 3 Lorbeerblätter
+ * 2 rote Chilischoten
+ * 4 Nelken
+ * 3 mittelgroße Karotten
+ * 1 Dose Kichererbsen
+ * 18 Datteln ohne Stein
+ * Salz
+ * Schwarzer Pfeffer
+ * 1 TL brauner Zucker
+ * 1 TL Ras el-Hanout
+
+#### Material
+ ???
+
+#### Zeitaufwand
+
+
+#### Zubereitung
+  * Zwiebeln und Knoblauch schälen und getrennt würfeln. Karotten schälen und in 1 cm dicke Scheiben schneiden. Kihcererbsen kalt abspülen.
+  * 3 EL Olivenöl in Top erhitzen. Zwiebeln ohne Farbe anschwitzen. Knoblauch mit anschwitzen.
+  * Tomaten und Kreuzkümmel dazu. Durchrühren.
+  * Zimt, Lorbeer, Chili und Nelken dazu. Karotten und Kichererbsen dazu. Datteln halbieren und dazu.
+  * Sauce ca. 1h leise köcheln lassen und mit Salz, Pfeffer und Zucker abschmecken.
+  * Lammkeule von Fett und Sehnen befreien und von allen Seiten mit Salz und Pfeffer würzen.
+  * Keule in 3 EL Olivenöl in einem Bräter anbraten, anschließend aus dem Bräter nehmen und mit Ras el-Hanout einreiben.
+  * Sauce in den Bräter geben. Keule dazu. Bräter für etwa 4 Stunden in den Ofen bei 80°C.
+  * Ziel-Kerntemperatur: 58°C
+  * Fleisch aus dem Bräter und aufschneiden.
+  * Sauce aufkochen und abschmecken.
+  
+#### Quelle: Süddeutsche Zeitung, Kochquartett
