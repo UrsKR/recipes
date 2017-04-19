@@ -45,7 +45,8 @@ ca 4.5h für das Fleisch
   * Sauce aufkochen und abschmecken.
   
  #### Notizen
-  * Sauce ist sehr reichhaltig. Keine Beilage nötig.
+  * Sauce ist dank der Kichererbsen sehr reichhaltig. Keine weitere Beilage nötig.
+  * Sauce evtl. ohne Zucker. Datteln sind sehr süß!
   * Sauce taugt auch für Pilawgerichte oder als Eintopf.
   * Statt Lamm geht auch Rind. Kein Schwein!
   
