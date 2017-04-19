@@ -28,10 +28,11 @@
  * Großer Topf
 
 #### Zeitaufwand
- 4-5 Stunden
+ca 1.5h für die Sauce/Beilage
+ca 4.5h für das Fleisch
 
 #### Zubereitung
-  * Zwiebeln und Knoblauch schälen und getrennt würfeln. Karotten schälen und in 1 cm dicke Scheiben schneiden. Kihcererbsen kalt abspülen.
+  * Zwiebeln und Knoblauch schälen und getrennt würfeln. Karotten schälen und in 1 cm dicke Scheiben schneiden. Kichererbsen kalt abspülen.
   * 3 EL Olivenöl in Top erhitzen. Zwiebeln ohne Farbe anschwitzen. Knoblauch mit anschwitzen.
   * Tomaten und Kreuzkümmel dazu. Durchrühren.
   * Zimt, Lorbeer, Chili und Nelken dazu. Karotten und Kichererbsen dazu. Datteln halbieren und dazu.
@@ -42,5 +43,10 @@
   * Ziel-Kerntemperatur: 58°C
   * Fleisch aus dem Bräter und aufschneiden.
   * Sauce aufkochen und abschmecken.
+  
+ #### Notizen
+  * Sauce ist sehr reichhaltig. Keine Beilage nötig.
+  * Sauce taugt auch für Pilawgerichte oder als Eintopf.
+  * Statt Lamm geht auch Rind. Kein Schwein!
   
 #### Quelle: Süddeutsche Zeitung, Kochquartett
