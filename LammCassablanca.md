@@ -28,7 +28,7 @@
  * Großer Topf
 
 #### Zeitaufwand
-ca 1.5h für die Sauce/Beilage
+ca 1.5h für die Sauce/Beilage  
 ca 4.5h für das Fleisch
 
 #### Zubereitung
