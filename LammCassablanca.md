@@ -1,7 +1,10 @@
 ### Lamm "Cassablanca"
 
 #### Zutaten für 4 Personen
-
+##### Fleisch
+ * 3 EL Olivenöl
+ * 1 Lammkeule, etwa 1,7kg
+ * 1 TL Ras el-Hanout
 ##### Sauce/Beilage
  * 3 mittelgroße Zwiebeln
  * 8 Knoblauchzehen ohne Keim
@@ -18,11 +21,6 @@
  * Salz
  * Schwarzer Pfeffer
  * 1 TL brauner Zucker
- 
-##### Fleisch
- * 3 EL Olivenöl
- * 1 Lammkeule, etwa 1,7kg
- * 1 TL Ras el-Hanout
 
 #### Material
  * Bräter
