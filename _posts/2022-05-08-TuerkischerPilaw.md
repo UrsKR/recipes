@@ -1,5 +1,8 @@
-### Türkischer Pilaw mit Huhn
-
+---
+author: Urs
+title: Türkischer Pilaw mit Huhn
+layout: post
+---
 #### Zutaten für 2 Personen + Kind
 * 450g Hähnchenbrustfilet
 * 1 Bund Frühlingszwiebeln
