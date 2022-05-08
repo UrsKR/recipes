@@ -47,7 +47,7 @@ ca 4.5h für das Fleisch
   * Fleisch aus dem Bräter und aufschneiden.
   * Sauce aufkochen und abschmecken.
   
- #### Notizen
+#### Notizen
   * Sauce ist dank der Kichererbsen sehr reichhaltig. Keine weitere Beilage nötig.
   * Sauce evtl. ohne Zucker. Datteln sind sehr süß!
   * Sauce taugt auch für Pilawgerichte oder als Eintopf.
