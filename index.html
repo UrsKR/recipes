@@ -2,29 +2,10 @@
 layout: default
 title: News
 ---
-<!--Taken from https://gist.github.com/1250095 by shinichikusai-->
-{% if paginator.next_page or paginator.previous_page %}
-		
-	<ul id="archive">
-	{% for post in paginator.posts %}
-		<li><a href="{{ post.url }}">{{ post.title }}</a> - <abbr>{{ post.date | date: "%d. %m. %y" }}</abbr></li>
-	{% endfor %}
-	</ul>
-	
-	<table width="100%">
-		<tr>
-			<td>
-	{% if paginator.previous_page == 1 %}
-		<a href="/">&laquo; Newer</a>
-	{% elsif paginator.previous_page %}
-		<a href="/page{{ paginator.previous_page }}/">&laquo; Newer</a>
-	{% endif %}
-			</td>
-			<td>
-	{% if paginator.next_page %}
-		<a style="float:right" href="/page{{ paginator.next_page }}/">Older &raquo;</a>
-	{% endif %}	
-			</td>
-		</tr>
-	</table>
-{% endif %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
