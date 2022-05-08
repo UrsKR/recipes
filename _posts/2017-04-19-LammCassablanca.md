@@ -1,10 +1,8 @@
 ---
 author: Urs
-title: Content test
+title: Lamm "Cassablanca"
 layout: post
 ---
-### Lamm "Cassablanca"
-
 #### Zutaten für 4 Personen
 ##### Fleisch
  * 3 EL Olivenöl
