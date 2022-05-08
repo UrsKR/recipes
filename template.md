@@ -1,5 +1,8 @@
-### Name
-
+---
+author: Urs
+title: NAME
+layout: post
+---
 #### Zutaten für 4 Personen
  * X
  * Y
