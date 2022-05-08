@@ -1,0 +1,39 @@
+---
+layout: default
+title: News
+---
+{% assign first_post = site.posts.first %}
+<div id="post">
+  <h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
+  <p><b>posted by {{first_post.author}} on {{ first_post.date | date: "%d. %m. %Y" }}</b></p>
+  {{ first_post.content }}
+  </div>
+
+<h2>Previous posts</h2>
+
+<!--Taken from https://gist.github.com/1250095 by shinichikusai-->
+{% if paginator.next_page or paginator.previous_page %}
+		
+	<ul id="archive">
+	{% for post in paginator.posts %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a> - <abbr>{{ post.date | date: "%d. %m. %y" }}</abbr></li>
+	{% endfor %}
+	</ul>
+	
+	<table width="100%">
+		<tr>
+			<td>
+	{% if paginator.previous_page == 1 %}
+		<a href="/">&laquo; Newer</a>
+	{% elsif paginator.previous_page %}
+		<a href="/page{{ paginator.previous_page }}/">&laquo; Newer</a>
+	{% endif %}
+			</td>
+			<td>
+	{% if paginator.next_page %}
+		<a style="float:right" href="/page{{ paginator.next_page }}/">Older &raquo;</a>
+	{% endif %}	
+			</td>
+		</tr>
+	</table>
+{% endif %}
