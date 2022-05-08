@@ -1,3 +1,8 @@
+---
+author: Urs
+title: Content test
+layout: post
+---
 ### Lamm "Cassablanca"
 
 #### Zutaten für 4 Personen
