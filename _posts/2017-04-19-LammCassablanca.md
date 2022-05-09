@@ -2,6 +2,7 @@
 author: Urs
 title: Lamm "Cassablanca"
 layout: post
+tags: NahOst, Fleisch, Lamm, Knoblauch, Süß, OhneBeilage
 ---
 #### Zutaten für 4 Personen
 ##### Fleisch
