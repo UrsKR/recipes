@@ -2,6 +2,7 @@
 author: Urs
 title: NAME
 layout: post
+tags: TAGS
 ---
 #### Zutaten für 4 Personen
  * X
