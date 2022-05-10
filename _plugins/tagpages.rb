@@ -1,3 +1,4 @@
+=begin
 Jekyll::Hooks.register :posts, :post_write do |post|
   all_existing_tags = Dir.entries("_tags")
     .map { |t| t.match(/(.*).md/) }
@@ -14,3 +15,4 @@ def generate_tag_file(tag)
     file << "---\ntag-name: #{tag}\n---\n"
   end
 end
+=end
