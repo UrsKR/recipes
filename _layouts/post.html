@@ -2,8 +2,7 @@
 layout: default
 ---
 <h1 class="snippets-heading">{{ page.title }}</h1>
-{{ content }}
-<h4>Tags</h4>
+<p>Ein 
 {% for tag in page.tags %}
   <span class="site-tag">
     <a href="{{ site.baseurl }}/tags/{{ tag | slugify}}/">
@@ -11,3 +10,7 @@ layout: default
     </a>
   </span>
 {% endfor %}
+  Gericht.
+</p>
+{{ content }}
+
