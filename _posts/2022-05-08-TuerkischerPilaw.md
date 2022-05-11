@@ -2,7 +2,7 @@
 author: Urs
 title: Türkischer Pilaw mit Huhn
 layout: post
-tags: Nahost, Huhn, Reis
+tags: nahost huhn reis
 ---
 #### Zutaten für 2 Personen + Kind
 * 450g Hähnchenbrustfilet
@@ -30,7 +30,7 @@ tags: Nahost, Huhn, Reis
  * Topf, um die Tomaten zu häuten
 
 #### Zeitaufwand
- ca 1h 
+ ca 1h
 
 #### Zubereitung
  * Fleisch in Würfel schneiden. Frühlingszwiebeln, Paprika, Knoblauch zerkleinern. Tomaten schälen und zerkleinern.
@@ -41,8 +41,8 @@ tags: Nahost, Huhn, Reis
  * Weiterköcheln, bis der Reis gar ist: 10 Minuten für Basmati, 20 Minuten für Naturreis.
  * Währenddessen Petersilie waschen und zerhacken und Joghurt mit restlichem Kreuzkümmel anrühren.
  * Vor dem Servieren Petersilie auf den Pilaw streuen. Mit Joghurt servieren.
-  
+
 #### Notizen
  * Ausprobieren
-  
+
 #### Quelle: GU Schnelle Küche

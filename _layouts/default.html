@@ -39,16 +39,17 @@
         </section>
 
         <aside id="sidebar">
-          <h3>Tag Cloud</h3>
+          <span style="font-weight:bold">Tag cloud</span>
+          <p>
             {% assign tags = site.tags | sort %}
             {% for tag in tags %}
             <span class="site-tag">
-              <a href="/tag/{{ tag | first | slugify }}/" style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+              <a href="{{ site.baseurl }}/tags/{{ tag | first | slugify }}/" style="font-size: {{ tag | last | size  |  times: 6 | plus: 80  }}%">
                 {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
               </a>
           </span>
         {% endfor %}
-
+        </p>
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}

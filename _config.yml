@@ -3,6 +3,6 @@ url: https://urskr.github.io
 baseurl: /recipes
 title: Meine Rezepte
 collections:
-  tags:
+  labels:
     output: true
-    permalink: tags/:path/
+    permalink: /tags/:path/

@@ -2,7 +2,7 @@
 author: Urs
 title: Wintergemüse
 layout: post
-tags: winter, vegetarisch, reis
+tags: winter vegetarisch reis
 ---
 #### Zutaten für 2 Personen
  * 1 große Dose geschälte Tomaten
@@ -22,5 +22,5 @@ tags: winter, vegetarisch, reis
  * Reis aufsetzen
  * Gemüse zerkleinern und putzen
  * Gemüse braten
-  
+
 #### Quelle: Von mir

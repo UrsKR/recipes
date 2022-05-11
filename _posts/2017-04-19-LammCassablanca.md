@@ -2,7 +2,7 @@
 author: Urs
 title: Lamm "Cassablanca"
 layout: post
-tags: NahOst, Fleisch, Lamm, Knoblauch, Süß, OhneBeilage
+tags: nahost fleisch lamm knoblauch suess ohnebeilage
 ---
 #### Zutaten für 4 Personen
 ##### Fleisch
@@ -47,11 +47,11 @@ ca 4.5h für das Fleisch
   * Ziel-Kerntemperatur: 58°C
   * Fleisch aus dem Bräter und aufschneiden.
   * Sauce aufkochen und abschmecken.
-  
+
 #### Notizen
   * Sauce ist dank der Kichererbsen sehr reichhaltig. Keine weitere Beilage nötig.
   * Sauce evtl. ohne Zucker. Datteln sind sehr süß!
   * Sauce taugt auch für Pilawgerichte oder als Eintopf.
   * Statt Lamm geht auch Rind. Kein Schwein!
-  
+
 #### Quelle: Süddeutsche Zeitung, Kochquartett
