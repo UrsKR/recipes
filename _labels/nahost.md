@@ -1,4 +1,4 @@
 ---
 layout: tags
-tag-name: vegetarisch
+tag-name: nahost
 ---
