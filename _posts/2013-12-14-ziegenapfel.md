@@ -2,7 +2,7 @@
 layout: post
 title: Ziegenapfel
 author: Urs
-tags: süß obst gäste vegetarisch
+tags: suess obst gaeste vegetarisch
 ---
 #### Zutaten für 2 Person
 

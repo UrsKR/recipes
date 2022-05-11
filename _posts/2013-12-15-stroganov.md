@@ -2,7 +2,7 @@
 layout: post
 title: Boeuf Stroganov
 author: Urs
-tags: fleisch rind reichhaltig gäste russland reis
+tags: fleisch rind reichhaltig gaeste russland reis
 ---
 #### Zutaten für 4 Personen
  * 500 g Rinderfilet  
