@@ -2,7 +2,9 @@
 author: Urs
 title: Ofenspaghetti
 layout: post
-tags: nudeln vegetarisch
+origin: usa
+side: nudeln
+tags: vegetarisch
 ---
 #### Zutaten für 2-3 Personen
  * 500g Spaghetti

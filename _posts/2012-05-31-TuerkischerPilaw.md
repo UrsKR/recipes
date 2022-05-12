@@ -3,7 +3,8 @@ author: Urs
 title: Türkischer Pilaw mit Huhn
 layout: post
 origin: tuerkei
-tags: huhn reis
+side: reis
+tags: huhn
 ---
 #### Zutaten für 2 Personen + Kind
 * 450g Hähnchenbrustfilet

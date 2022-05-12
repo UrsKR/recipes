@@ -1,4 +1,4 @@
 ---
-layout: tags
+layout: sides
 tag-name: nudeln
 ---

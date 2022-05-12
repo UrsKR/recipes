@@ -10,10 +10,16 @@ layout: default
     </a>
   </span>
 {% endfor %}
- <span>Gericht aus</span>
+ <span>Gericht mit</span>
+ <span class="site-tag">
+   <a href="{{ site.baseurl }}/sides/{{ page.side | slugify}}/">
+     {{ page.side | replace:'-', ' ' | capitalize}}
+   </a>
+ </span>
+ <span>aus</span>
  <span class="site-tag">
    <a href="{{ site.baseurl }}/origins/{{ page.origin | slugify}}/">
-     {{ page.origin | replace:'-', ' ' }}
+     {{ page.origin | replace:'-', ' ' | capitalize}}
    </a>
  </span>
  <span>.</span>

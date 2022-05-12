@@ -3,7 +3,8 @@ author: Urs
 title: Wintergemüse
 layout: post
 origin: deutschland
-tags: winter vegetarisch reis
+side: reis
+tags: winter vegetarisch
 ---
 #### Zutaten für 2 Personen
  * 1 große Dose geschälte Tomaten

@@ -9,3 +9,6 @@ collections:
   origins:
     output: true
     permalink: /origins/:path/
+  sides:
+    output: true
+    permalink: /sides/:path/

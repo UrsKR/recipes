@@ -3,7 +3,8 @@ author: Urs
 title: Lamm "Cassablanca"
 layout: post
 origin: marokko
-tags: arabisch fleisch lamm knoblauch suess ohnebeilage
+side: ohne-beilage
+tags: arabisch fleisch lamm knoblauch suess
 ---
 #### Zutaten für 4 Personen
 ##### Fleisch
