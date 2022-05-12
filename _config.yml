@@ -6,3 +6,6 @@ collections:
   labels:
     output: true
     permalink: /tags/:path/
+  origins:
+    output: true
+    permalink: /origins/:path/

@@ -2,6 +2,7 @@
 author: Urs
 title: Wintergemüse
 layout: post
+origin: deutschland
 tags: winter vegetarisch reis
 ---
 #### Zutaten für 2 Personen
