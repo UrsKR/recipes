@@ -20,7 +20,9 @@ tags: suess obst gaeste vegetarisch
  * Messer  
  * Durchschlag  
 
-#### Zeitaufwand 45min  
+#### Zeitaufwand 
+  45min  
+
 #### Zubereitung
 * Ofen auf 225°C (Ober-/Unterhitze) vorheizen
 * Apfel in 4 dicke Scheiben schneiden und aus jeder Scheibe das
@@ -38,5 +40,3 @@ tags: suess obst gaeste vegetarisch
 * Honig, Butter und Balsamico in der noch warmen Form verrühren und über
   die angerichteten Portionen gießen.
 * Futtern!
-
-#### Quelle: Schorsch

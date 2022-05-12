@@ -22,8 +22,10 @@ tags: fleisch rind reichhaltig gaeste russland reis
  * Schüsseln für die zerlegten Einzelteile
  * Ofen, um das Fleisch warmzustellen
 
-#### Zeitaufwand: 45min  
-#### Zubereitung:
+#### Zeitaufwand 
+  45min  
+  
+#### Zubereitung
 * Die Filetspitzen in sehr dünne Streifen von etwa 4 x 4 Millimetern
   Durchmesser und maximal 5 Zentimetern Länge schneiden. Mit den
   Gewürzgurken ähnlich verfahren, hier dürfen die Streifen allerdings
@@ -42,5 +44,3 @@ tags: fleisch rind reichhaltig gaeste russland reis
   lassen; dann mit der gehackten Petersilie bestreuen und sofort
   servieren. 
 * Dazu Reis.
-
-#### Quelle: http://www.chefkoch.de/rezepte/724471175171459/Boeuf-Stroganoff-de-Luxe.html

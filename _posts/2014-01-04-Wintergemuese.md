@@ -16,11 +16,9 @@ tags: winter vegetarisch reis
  * Messer
 
 #### Zeitaufwand
- ca 30 min
+ 30 min
 
 #### Zubereitung
  * Reis aufsetzen
  * Gemüse zerkleinern und putzen
  * Gemüse braten
-
-#### Quelle: Urs

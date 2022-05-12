@@ -41,8 +41,3 @@ tags: nahost huhn reis
  * Weiterköcheln, bis der Reis gar ist: 10 Minuten für Basmati, 20 Minuten für Naturreis.
  * Währenddessen Petersilie waschen und zerhacken und Joghurt mit restlichem Kreuzkümmel anrühren.
  * Vor dem Servieren Petersilie auf den Pilaw streuen. Mit Joghurt servieren.
-
-#### Notizen
- * Ausprobieren
-
-#### Quelle: GU Schnelle Küche

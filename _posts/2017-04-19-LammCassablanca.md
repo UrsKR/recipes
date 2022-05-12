@@ -32,8 +32,8 @@ tags: nahost fleisch lamm knoblauch suess ohnebeilage
  * Großer Topf
 
 #### Zeitaufwand
-ca 1.5h für die Sauce/Beilage  
-ca 4.5h für das Fleisch
+  1.5h für die Sauce/Beilage  
+  4.5h für das Fleisch
 
 #### Zubereitung
   * Zwiebeln und Knoblauch schälen und getrennt würfeln. Karotten schälen und in 1 cm dicke Scheiben schneiden. Kichererbsen kalt abspülen.
@@ -53,5 +53,3 @@ ca 4.5h für das Fleisch
   * Sauce evtl. ohne Zucker. Datteln sind sehr süß!
   * Sauce taugt auch für Pilawgerichte oder als Eintopf.
   * Statt Lamm geht auch Rind. Kein Schwein!
-
-#### Quelle: Süddeutsche Zeitung, Kochquartett
