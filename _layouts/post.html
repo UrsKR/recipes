@@ -12,6 +12,12 @@ layout: default
 {% endfor %}
  <span>Gericht mit</span>
  <span class="site-tag">
+   <a href="{{ site.baseurl }}/meats/{{ meat.side | slugify}}/">
+     {{ page.meat | replace:'-', ' ' | capitalize}}
+   </a>
+ </span>
+ <span>und</span>
+ <span class="site-tag">
    <a href="{{ site.baseurl }}/sides/{{ page.side | slugify}}/">
      {{ page.side | replace:'-', ' ' | capitalize}}
    </a>

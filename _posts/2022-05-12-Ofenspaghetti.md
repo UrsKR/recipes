@@ -3,6 +3,7 @@ author: Urs
 title: Ofenspaghetti
 layout: post
 origin: usa
+meat: ohne-fleisch
 side: nudeln
 tags: vegetarisch
 ---

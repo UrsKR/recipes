@@ -12,3 +12,6 @@ collections:
   sides:
     output: true
     permalink: /sides/:path/
+  meats:
+    output: true
+    permalink: /meats/:path/
