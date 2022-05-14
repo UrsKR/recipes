@@ -29,12 +29,14 @@ origin: griechenland
 * Zwiebel vierteln, in feine Streifen schneiden.
 * Rosmarinnadeln abzupfen.
 * Tomaten halbieren.
-* Öl in einer großen beschichteten Pfanne erhitzen,
+* Öl in einer großen beschichteten Pfanne erhitzen
 * Kartoffelwürfel zufügen.
-* Ca. 10 Minuten unter häufigem Wenden braten.
-* Bei Bedarf nach und nach die Gemüsebrühe zufügen.
+* 5 Minuten unter häufigem Wenden bei starker Hitze braten. Nach und nach die Gemüsebrühe zufügen.
 * Zwiebel und Rosmarin zugeben.
 * Weiterbraten, bis die Kartoffeln weich sind.
 * Den Schafskäse in ca. 1 cm große Würfel schneiden.
 * Mit Tomaten unter Kartoffeln mischen und kurz erhitzen.
-* Mit Pfeffer und evt. Salz abschmecken, heiß servieren.
+* Mit Pfeffer und evt. Salz abschmecken. Heiß servieren.
+
+#### Notizen
+* Mengenverhältnisse passen gut wie angegeben.
