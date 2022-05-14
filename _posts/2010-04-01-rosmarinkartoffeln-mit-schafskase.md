@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Rosmarinkartoffeln mit Schafskäse
-tags: vegetarisch
+tags: vegetarisch mediterran
 side: kartoffeln
+origin: griechenland
 ---
 #### Zutaten für 4 Portionen
 * 1 kg fest kochende Kartoffeln
