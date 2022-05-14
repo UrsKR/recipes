@@ -5,7 +5,7 @@ layout: post
 origin: tuerkei
 meat: huhn
 side: reis
-tags: fleisch
+tags: fleisch arabisch
 ---
 #### Zutaten für 2 Personen + Kind
 * 450g Hähnchenbrustfilet
