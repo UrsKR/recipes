@@ -11,12 +11,11 @@ layout: default
     {% endif %}
   </h1>
   <ul style='padding-top: 16px;'>
-    {% for post in site.posts %}
-        {% if post.meat == page.tag-name %}
+    {% assign matches = site.posts | where:"meat",page.tag-name %}
+    {% for post in matches %}
         <li>
           <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a>
         </li>
-      {% endif %}
     {% endfor %}
   </ul>
 </div>

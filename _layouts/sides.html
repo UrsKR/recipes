@@ -5,12 +5,11 @@ layout: default
 <div class="snippets">
   <h1 class="snippets-heading">Rezepte mit {{ page.tag-name | capitalize}}</h1>
   <ul style='padding-top: 16px;'>
-    {% for post in site.posts %}
-      {% if post.side == page.tag-name %}
+    {% assign matches = site.posts | where:"side",page.tag-name %}
+    {% for post in matches %}
         <li>
           <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a>
         </li>
-      {% endif %}
     {% endfor %}
   </ul>
 </div>
