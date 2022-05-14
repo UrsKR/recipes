@@ -4,7 +4,8 @@ title: Alle Rezepte
 ---
 <h1>Alle Rezepte</h1>
 <ul>
-  {% for post in site.posts %}
+  {% assign sortedposts = site.posts | sort: "title" %}
+  {% for post in sortedposts %}
     <li>
       <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
     </li>
