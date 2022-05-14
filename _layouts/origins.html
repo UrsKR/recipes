@@ -2,15 +2,4 @@
 layout: default
 ---
 
-<div class="snippets">
-  <h1 class="snippets-heading">Rezepte aus {{ page.tag-name | capitalize}}</h1>
-  <ul style='padding-top: 16px;'>
-    {% for post in site.posts %}
-      {% if post.origin == page.tag-name %}
-      <li>
-        <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
+{% include filter.html property="origin" %}
