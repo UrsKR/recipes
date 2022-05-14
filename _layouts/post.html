@@ -10,13 +10,22 @@ layout: default
     </a>
   </span>
 {% endfor %}
- <span>Gericht mit</span>
- <span class="site-tag">
-   <a href="{{ site.baseurl }}/meats/{{ meat.side | slugify}}/">
-     {{ page.meat | replace:'-', ' ' | capitalize}}
-   </a>
- </span>
- <span>und</span>
+ <span>Gericht</span>
+ {% if page.meat %}
+  <span>mit</span>
+  <span class="site-tag">
+    <a href="{{ site.baseurl }}/meats/{{ page.meat | slugify}}/">
+      {{ page.meat | replace:'-', ' ' | capitalize}}
+    </a>
+  </span>
+ {% else %}
+  <span class="site-tag">
+    <a href="{{ site.baseurl }}/meats/{{site.data.nils.meat.tag}}/">
+      {{site.data.i18n.nil.meat}}
+    </a>
+  </span>
+ {% endif %}
+ <span>und mit</span>
  <span class="site-tag">
    <a href="{{ site.baseurl }}/sides/{{ page.side | slugify}}/">
      {{ page.side | replace:'-', ' ' | capitalize}}
@@ -25,9 +34,8 @@ layout: default
  <span>aus</span>
  <span class="site-tag">
    <a href="{{ site.baseurl }}/origins/{{ page.origin | slugify}}/">
-     {{ page.origin | replace:'-', ' ' | capitalize}}
+     {{ page.origin | replace:'-', ' ' | capitalize}}.
    </a>
  </span>
- <span>.</span>
 </p>
 {{ content }}

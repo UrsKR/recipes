@@ -3,7 +3,13 @@ layout: default
 ---
 
 <div class="snippets">
-  <h1 class="snippets-heading">Rezepte mit {{ page.tag-name | capitalize}}</h1>
+  <h1 class="snippets-heading">Rezepte
+    {% if page.tag-name %}
+      mit {{ page.tag-name | capitalize}}
+    {% else %}
+      {{ site.data.i18n.nil.meat}}
+    {% endif %}
+  </h1>
   <ul style='padding-top: 16px;'>
     {% for post in site.posts %}
         {% if post.meat == page.tag-name %}

@@ -3,7 +3,6 @@ author: Urs
 title: Wintergemüse
 layout: post
 origin: deutschland
-meat: ohne-fleisch
 side: reis
 tags: winter vegetarisch
 ---

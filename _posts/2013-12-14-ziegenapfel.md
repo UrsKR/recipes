@@ -3,7 +3,6 @@ layout: post
 title: Ziegenapfel
 author: Urs
 origin: frankreich
-meat: ohne-fleisch
 side: ohne-beilage
 tags: suess obst gaeste vegetarisch
 ---
