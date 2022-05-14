@@ -1,0 +1,11 @@
+<span style="font-weight:bold">Fleisch</span>
+<p>
+  {% assign meats =  site.posts | map: 'meat' | join: ','  | split: ','  | sort | group_by: tag %}
+  {% for meat in meats %}
+    <span class="site-tag">
+      <a href="{{ site.baseurl }}/meats/{{ meat.name | default: site.data.nils.meat.tag | slugify }}/" style="font-size: {{ meat.size |  times: 6 | plus: 80  }}%">
+        {{ meat.name | replace:'-', ' ' | capitalize | default: site.data.i18n.nil.meat }} ({{ meat.size }})
+      </a>
+    </span>
+  {% endfor %}
+</p>

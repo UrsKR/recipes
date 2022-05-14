@@ -1,0 +1,11 @@
+<span style="font-weight:bold">Herkunft</span>
+<p>
+  {% assign origins =  site.posts | map: 'origin' | join: ','  | split: ','  | sort | group_by: tag %}
+  {% for origin in origins %}
+    <span class="site-tag">
+      <a href="{{ site.baseurl }}/origins/{{ origin.name | slugify }}/" style="font-size: {{ origin.size |  times: 6 | plus: 80  }}%">
+        {{ origin.name | replace:'-', ' ' | capitalize }} ({{ origin.size }})
+      </a>
+    </span>
+  {% endfor %}
+</p>
