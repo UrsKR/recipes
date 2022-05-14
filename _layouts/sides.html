@@ -3,13 +3,20 @@ layout: default
 ---
 
 <div class="snippets">
-  <h1 class="snippets-heading">Rezepte mit {{ page.tag-name | capitalize}}</h1>
+  <h1 class="snippets-heading">Rezepte
+    {% if page.tag-name %}
+      mit {{ page.tag-name | capitalize}}
+    {% else %}
+      {{site.data.i18n.nil.side}}
+    {% endif %}
+  </h1>
   <ul style='padding-top: 16px;'>
-    {% assign matches = site.posts | where:"side",page.tag-name %}
-    {% for post in matches %}
+    {% for post in site.posts %}
+      {% if post.side == page.tag-name %}
         <li>
           <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a>
         </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
