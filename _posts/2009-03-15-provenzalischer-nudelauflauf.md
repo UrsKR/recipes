@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Provenzalischer Nudelauflauf
-tags: hackfleisch auflauf mediterran
+tags: hackfleisch auflauf mediterran fleisch
 meat: rind
 side: nudeln
 origin: frankreich
