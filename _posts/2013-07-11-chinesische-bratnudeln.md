@@ -4,7 +4,7 @@ title: Chinesische Bratnudeln
 side: nudeln
 meat: schwein
 origin: china
-tags: nudeln asiatisch wok
+tags: asiatisch wok
 ---
 #### Zutaten für 4 Personen
 * 200 g asiatische Weizennudeln  
