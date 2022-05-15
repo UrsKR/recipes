@@ -12,34 +12,14 @@ layout: default
 {% endfor %}
  <span>Gericht</span>
  {% if page.meat %}
-  <span>mit</span>
-  <span class="site-tag">
-    <a href="{{ site.baseurl }}/meats/{{ page.meat | slugify}}/">
-      {{ page.meat | replace:'-', ' ' | capitalize}}
-    </a>
-  </span>
- {% else %}
-  <span class="site-tag">
-    <a href="{{ site.baseurl }}/meats/{{site.data.nils.meat.tag}}/">
-      {{site.data.i18n.nil.meat}}
-    </a>
-  </span>
+   <span>mit</span>
  {% endif %}
+ {% include subtitletag.html urlpath="meats" property="meat" %}
  <span>und</span>
  {% if page.side %}
   <span>mit</span>
-  <span class="site-tag">
-    <a href="{{ site.baseurl }}/sides/{{ page.side | slugify}}/">
-      {{ page.side | replace:'-', ' ' | capitalize}}
-    </a>
-  </span>
-  {% else %}
-   <span class="site-tag">
-     <a href="{{ site.baseurl }}/sides/{{site.data.nils.side.tag}}/">
-       {{site.data.i18n.nil.side}}
-     </a>
-   </span>
-  {% endif %}
+ {% endif %}
+ {% include subtitletag.html urlpath="sides" property="side" %}
  <span>aus</span>
  <span class="site-tag">
    <a href="{{ site.baseurl }}/origins/{{ page.origin | slugify}}/">
