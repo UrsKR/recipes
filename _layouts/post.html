@@ -15,8 +15,13 @@ layout: default
   {% endif %}
  {% endunless %}
  {% include subtitletag.html urlpath="sides" property="side" %}
- <span>aus</span>
+ {% if page.origin %}
+  <span>aus</span>
+ {% endif %}
  {% include subtitletag.html urlpath="origins" property="origin" %}
+ {% unless page.origin %}
+  <span>er Herkunft</span>
+ {% endunless %}  
  <span>.</span>
  <br/>
   <span>(</span>
