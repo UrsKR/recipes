@@ -4,7 +4,6 @@ title: Ofenspaghetti
 layout: post
 type: auflauf
 side: nudeln
-origin: usa
 tags: vegetarisch
 ---
 #### Zutaten für 2-3 Personen

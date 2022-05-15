@@ -5,7 +5,6 @@ type: auflauf
 meat: huhn
 side: kartoffeln
 tags: gefluegel
-origin: unbekannt
 ---
 #### Zutaten für 4 Personen
 4 Hähnchenbrustfilets (à 150 g)  

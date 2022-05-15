@@ -9,16 +9,15 @@ layout: default
  {% endif %}
  {% include subtitletag.html urlpath="meats" property="meat" %}
  <span>und</span>
- {% if page.side %}
-  <span>mit</span>
- {% endif %}
+ {% unless page.meat %}
+  {% if page.side %}
+    <span>mit</span>
+  {% endif %}
+ {% endunless %}
  {% include subtitletag.html urlpath="sides" property="side" %}
  <span>aus</span>
- <span class="site-tag">
-   <a href="{{ site.baseurl }}/origins/{{ page.origin | slugify}}/">
-     {{ page.origin | replace:'-', ' ' | capitalize}}.
-   </a>
- </span>
+ {% include subtitletag.html urlpath="origins" property="origin" %}
+ <span>.</span>
  <br/>
   <span>(</span>
   {% for tag in page.tags %}
