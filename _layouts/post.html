@@ -3,13 +3,6 @@ layout: default
 ---
 <h1 class="snippets-heading">{{ page.title }}</h1>
 <p><span>Ein</span>
-{% for tag in page.tags %}
-  <span class="site-tag">
-    <a href="{{ site.baseurl }}/tags/{{ tag | slugify}}/">
-      {{ tag | replace:'-', ' ' }}
-    </a>
-  </span>
-{% endfor %}
  {% include subtitletag.html urlpath="types" property="type" %}
  {% if page.meat %}
    <span>mit</span>
@@ -26,5 +19,14 @@ layout: default
      {{ page.origin | replace:'-', ' ' | capitalize}}.
    </a>
  </span>
-</p>
+ <br/>
+  <span>(</span>
+  {% for tag in page.tags %}
+    <span class="site-tag">
+      <a href="{{ site.baseurl }}/tags/{{ tag | slugify}}/">
+        #{{ tag | replace:'-', ' ' }}
+      </a>
+    </span>
+  {% endfor %}
+  <span>)</span>
 {{ content }}
