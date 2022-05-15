@@ -2,7 +2,7 @@
   {% assign nilname = site.data.i18n.nil[include.property] %}
   <h1 class="snippets-heading">Rezepte
     {% if page.tag-name %}
-      mit {{ page.tag-name | capitalize}}
+      {{include.preposition | default: "mit"}} {{ page.tag-name | capitalize}}
     {% else %}
       {{nilname}}
     {% endif %}
