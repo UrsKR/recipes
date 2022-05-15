@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Überbackene Ofenkartoffeln
+type: auflauf
 side: kartoffeln
-tags: vegetarisch auflauf
+tags: vegetarisch
 origin: peru
 ---
 

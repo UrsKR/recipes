@@ -1,4 +1,4 @@
 ---
-layout: tags
+layout: types
 tag-name: beilage
 ---

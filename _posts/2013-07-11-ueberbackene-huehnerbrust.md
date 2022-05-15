@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Überbackene Hähnchenbrüste
+type: auflauf
 meat: huhn
 side: kartoffeln
-tags: gefluegel auflauf
+tags: gefluegel
 origin: unbekannt
 ---
 #### Zutaten für 4 Personen

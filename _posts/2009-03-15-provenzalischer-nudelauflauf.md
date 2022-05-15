@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Provenzalischer Nudelauflauf
-tags: hackfleisch auflauf mediterran fleisch
+type: auflauf
 meat: rind
 side: nudeln
 origin: frankreich
+tags: hackfleisch mediterran fleisch
 ---
 #### Zutaten für 4 Portionen
 * 400 g Tagliatelle

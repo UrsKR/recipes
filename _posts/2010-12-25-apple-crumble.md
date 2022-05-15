@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Apple Crumble
-tags: reichhaltig suess vegetarisch dessert obst winter
+type: kuchen
+tags: reichhaltig suess vegetarisch obst winter
 origin: england
 ---
 #### Zutaten für 6 Personen

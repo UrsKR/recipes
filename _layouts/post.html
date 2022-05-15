@@ -10,7 +10,7 @@ layout: default
     </a>
   </span>
 {% endfor %}
- <span>Gericht</span>
+ {% include subtitletag.html urlpath="types" property="type" %}
  {% if page.meat %}
    <span>mit</span>
  {% endif %}

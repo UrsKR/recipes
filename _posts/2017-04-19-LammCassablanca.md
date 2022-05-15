@@ -2,6 +2,7 @@
 author: Urs
 title: Lamm "Cassablanca"
 layout: post
+type: braten
 origin: marokko
 meat: lamm
 tags: arabisch fleisch knoblauch suess

@@ -2,9 +2,10 @@
 author: Urs
 title: Türkischer Pilaw mit Huhn
 layout: post
-origin: tuerkei
+type: pfanne
 meat: huhn
 side: reis
+origin: tuerkei
 tags: gefluegel arabisch
 ---
 #### Zutaten für 2 Personen + Kind

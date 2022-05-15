@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rosmarinkartoffeln mit Schafskäse
+type: pfanne
 tags: vegetarisch mediterran
 side: kartoffeln
 origin: griechenland

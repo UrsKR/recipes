@@ -2,8 +2,10 @@
 author: Urs
 title: NAME
 layout: post
+dish: TYPE
 meat: MEAT
 side: SIDE
+origin: ORIGIN
 tags: TAGS
 ---
 #### Zutaten für 4 Personen

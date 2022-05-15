@@ -6,12 +6,15 @@ collections:
   labels:
     output: true
     permalink: /tags/:path/
-  origins:
+  types:
     output: true
-    permalink: /origins/:path/
+    permalink: /types/:path/
   sides:
     output: true
     permalink: /sides/:path/
   meats:
     output: true
     permalink: /meats/:path/
+  origins:
+    output: true
+    permalink: /origins/:path/

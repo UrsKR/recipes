@@ -2,8 +2,9 @@
 author: Urs
 title: Wintergemüse
 layout: post
-origin: deutschland
+dish: pfanne
 side: reis
+origin: deutschland
 tags: winter vegetarisch
 ---
 #### Zutaten für 2 Personen
