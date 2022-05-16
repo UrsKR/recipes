@@ -2,4 +2,10 @@
 layout: default
 ---
 
-{% include filter.html property="type" %}
+<div class="snippets">
+  <h1 class="snippets-heading">
+      {% assign nilname = site.data.i18n.types[page.tag-name] | default: "Gerichte" %}
+      {{nilname}}
+  </h1>
+  {% include filterlist.html property="type" %}
+</div>

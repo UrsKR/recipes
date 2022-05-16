@@ -3,3 +3,12 @@ nil:
   side: ohne Beilage
   type: Gericht
   origin: unbekannter Herkunft
+
+types:
+  nil: Gerichte
+  auflauf: Aufläufe
+  beilage: Beilagen
+  braten: Braten
+  kuchen: Kuchen
+  pfanne: Pfannen
+  wok: Woks

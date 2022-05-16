@@ -1,0 +1,9 @@
+<h1 class="snippets-heading">
+  Rezepte
+  {% if page.tag-name %}
+    {{include.preposition | default: "mit"}} {{ page.tag-name | capitalize}}
+  {% else %}
+    {% assign nilname = site.data.i18n.nil[include.property] %}
+    {{nilname}}
+  {% endif %}
+</h1>

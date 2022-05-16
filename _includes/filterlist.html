@@ -1,0 +1,9 @@
+<ul style='padding-top: 16px;'>
+  {% for post in site.posts | sort: "title" %}
+    {% if post[include.property] == page.tag-name %}
+      <li>
+        <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
