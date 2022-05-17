@@ -2,6 +2,7 @@
 layout: post
 title: Altdeutscher Apfelkuchen
 type: kuchen
+origin: deutschland
 tags: suess obst einfach
 ---
 #### Zutaten für 16 Stück
