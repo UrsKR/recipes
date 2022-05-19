@@ -26,5 +26,3 @@ tags: TAGS
 
 #### Notizen
  * Ausprobieren
-
-#### Quelle: Von mir
