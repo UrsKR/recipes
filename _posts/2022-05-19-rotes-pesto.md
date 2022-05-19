@@ -4,7 +4,7 @@ title: Rotes Pesto
 layout: post
 dish: beilage
 side: nudeln
-origin: Italien
+origin: italien
 tags: scharf vegetarisch knoblauch
 ---
 #### Zutaten für einen großen Topf
