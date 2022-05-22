@@ -31,7 +31,7 @@ tags: fleisch obst suess sauer
  * Messer
 
 #### Zeitaufwand
- ca 5h für diesunddas
+ 60 Minuten
 
 #### Zubereitung
  * Alle Zutaten zerkleinern.
