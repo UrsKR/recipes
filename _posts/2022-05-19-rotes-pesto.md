@@ -2,7 +2,7 @@
 author: Urs
 title: Rotes Pesto
 layout: post
-dish: beilage
+type: beilage
 side: nudeln
 origin: italien
 tags: scharf vegetarisch knoblauch

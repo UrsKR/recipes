@@ -2,7 +2,7 @@
 author: Urs
 title: Spinat-Pilz-Risotto
 layout: post
-dish: risotto
+type: risotto
 side: reis
 origin: italien
 tags: vegetarisch knoblauch

@@ -2,7 +2,7 @@
 author: Urs
 title: Wintergemüse
 layout: post
-dish: pfanne
+type: pfanne
 side: reis
 origin: deutschland
 tags: winter vegetarisch

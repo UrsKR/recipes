@@ -2,7 +2,7 @@
 author: Urs
 title: Reis mit Tomaten und Knoblauch
 layout: post
-dish: beilage
+type: beilage
 side: reis
 origin: israel
 tags: vegetarisch knoblauch

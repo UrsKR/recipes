@@ -2,7 +2,7 @@
 author: Urs
 title: Weihnachtlicher Kartoffelsalat
 layout: post
-dish: salat
+type: salat
 side: kartoffeln
 origin: Deutschland
 tags: vegetarisch obst

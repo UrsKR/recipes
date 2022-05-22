@@ -2,7 +2,7 @@
 author: Urs
 title: NAME
 layout: post
-dish: TYPE
+type: TYPE
 meat: MEAT
 side: SIDE
 origin: ORIGIN

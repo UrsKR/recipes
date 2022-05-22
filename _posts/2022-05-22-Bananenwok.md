@@ -2,7 +2,7 @@
 author: Urs
 title: Bananenwok
 layout: post
-dish: wok
+type: wok
 meat: pute
 side: reis
 origin: indonesien
