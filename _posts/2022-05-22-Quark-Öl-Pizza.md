@@ -4,7 +4,7 @@ title: Pizza mit Quark-Öl-Teig
 layout: post
 meat: schwein
 origin: italien
-tags: knoblauch schnell
+tags: knoblauch schnell fleisch
 ---
 #### Zutaten für 2 Bleche
 ##### Für den Teig
