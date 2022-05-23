@@ -18,7 +18,8 @@ tags: scharf vegetarisch knoblauch
 
 #### Material
  * Messer
- * Glas zur Aufbewahrung
+ * Häcksler oder Thermomix
+ * Verschließbares Glas zur Aufbewahrung
 
 #### Zeitaufwand
  30 Minuten
@@ -33,3 +34,7 @@ tags: scharf vegetarisch knoblauch
  * Nach Gefühl Olivenöl dazu
  * Verrühren
  * Ins Glas tun.
+
+#### Notizen
+ * Reicht wirklich für einen großen Topf.
+ * Zubereitung am einfachsten im Thermomix. Häcksler ist eventuell zu klein.
