@@ -17,11 +17,11 @@ tags: knoblauch schnell fleisch vegetarisch
  * 1 TL Salz
 
 ##### Sauce und Belag
- * wie in {% post_url 2022-05-22-Pizza %}
+ * wie im [Pizzarezept]({{ site.baseurl }}{% post_url 2022-05-22-Pizza %})
 
 #### Zeitaufwand
  * 105 Minuten
 
 #### Zubereitung
  * Zutaten zu einem glatten Teig verkneten.
- * Dann weiter wie in {% post_url 2022-05-22-Pizza %}
+ * Dann weiter wie im [Pizzarezept]({{ site.baseurl }}{% post_url 2022-05-22-Pizza %})
