@@ -13,7 +13,7 @@ tags: scharf vegetarisch knoblauch
  * 80g Parmesan
  * 3 Knoblauchzehen
  * 100g getrocknete Tomaten
- * 2 Büsche Basilikum
+ * 2 Büsche Basilikum (oder ein XL-Topf von Aldi)
  * Olivenöl
 
 #### Material
