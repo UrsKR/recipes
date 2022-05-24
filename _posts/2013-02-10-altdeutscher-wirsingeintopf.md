@@ -4,6 +4,7 @@ title: Altdeutscher Wirsingeintopf
 meat: schwein
 side: kartoffeln
 type: eintopf
+origin: deutschland
 tags: herbst winter
 ---
 #### Zutaten für 6 Personen

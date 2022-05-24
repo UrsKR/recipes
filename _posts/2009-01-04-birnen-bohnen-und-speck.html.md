@@ -4,6 +4,7 @@ title: Birnen, Bohnen und Speck
 type: eintopf
 meat: schwein
 side: kartoffeln
+origin: deutschland
 tags: fleisch einfach herbst
 ---
 #### Zutaten für 3 Portionen
