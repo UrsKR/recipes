@@ -5,7 +5,7 @@ layout: post
 type: salat
 meat: rind
 side: brot
-tags: sommer
+tags: sommer party
 ---
 #### Zutaten für 3-4 Personen
  * 1 Wassermelone (bzw. 1/2 große)
