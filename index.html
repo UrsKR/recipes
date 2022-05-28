@@ -3,11 +3,16 @@ layout: default
 title: Alle Rezepte
 ---
 <h1>Alle Rezepte</h1>
-<ul>
-  {% assign sortedposts = site.posts | sort: "title" %}
-  {% for post in sortedposts %}
-    <li>
-      <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-    </li>
+  {% assign posts_by_letter = site.posts | group_by_exp: "post", "post.title | slice: 0, 1" | sort: "name" %}
+  {% for letter in posts_by_letter %}
+    <h2>
+        {{ letter.name }}
+    </h2>
+    <ul>
+    {% for post in letter.items %}
+      <li>
+        <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
   {% endfor %}
-</ul>
