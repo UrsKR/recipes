@@ -4,7 +4,7 @@ title: Zwiebelkuchen
 type: kuchen
 origin: deutschland
 meat: schwein
-tags: zeitaufwändig party herzhaft
+tags: party herzhaft
 ---
 
 #### Zutaten für 1 Blech
