@@ -7,7 +7,7 @@ type: eintopf
 origin: deutschland
 tags: herbst winter
 ---
-#### Zutaten für 6 Personen
+## Zutaten für 6 Personen
 * 1 kg Wirsing  
 * 200 g durchwachsener Speck  
 * 3 kleine Zwiebeln  
@@ -16,10 +16,10 @@ tags: herbst winter
 * Salz und Pfeffer
 * 250 g grobe Mettwurst  
 
-#### Zeitaufwand
+## Zeitaufwand
 50 Minuten  
 
-#### Zubereitung
+## Zubereitung
 * Wirsing halbieren, Strunk entfernen, in Streifen schneiden
 * Wirsing waschen und abtropfen lassen.
 * Speck klein würfeln.
@@ -34,5 +34,5 @@ tags: herbst winter
 * Mit Salz und Pfeffer abschmecken.
 * Die Wurst in Scheiben schneiden und zum Eintopf geben.
 
-#### Notizen
+## Notizen
 Dazu Bauernbrot.

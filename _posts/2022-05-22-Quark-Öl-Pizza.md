@@ -6,8 +6,8 @@ meat: schwein
 origin: italien
 tags: knoblauch schnell fleisch vegetarisch
 ---
-#### Zutaten für 2 Bleche
-##### Für den Teig
+## Zutaten für 2 Bleche
+### Für den Teig
  * 400g Weizenmehl
  * 1 Tüte Backpulver
  * 200g Magerquark
@@ -16,12 +16,12 @@ tags: knoblauch schnell fleisch vegetarisch
  * 2 Eier
  * 1 TL Salz
 
-##### Sauce und Belag
+### Sauce und Belag
  * wie im [Pizzarezept]({{ site.baseurl }}{% post_url 2022-05-22-Pizza %})
 
-#### Zeitaufwand
+## Zeitaufwand
  * 105 Minuten
 
-#### Zubereitung
+## Zubereitung
  * Zutaten zu einem glatten Teig verkneten.
  * Dann weiter wie im [Pizzarezept]({{ site.baseurl }}{% post_url 2022-05-22-Pizza %})

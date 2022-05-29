@@ -7,7 +7,7 @@ side: nudeln
 origin: china
 tags: asiatisch fleisch
 ---
-#### Zutaten für 4 Personen
+## Zutaten für 4 Personen
 * 200 g asiatische Weizennudeln  
 * 5 EL Öl (z.B. Sojaöl)  
 * Salz, weißer Pfeffer  
@@ -19,13 +19,13 @@ tags: asiatisch fleisch
 * ca. 5 EL Sojasauce  
 * 1-2 TL Sambal Oelek  
 
-#### Material
+## Material
 * Wok  
 
-#### Zeitaufwand
+## Zeitaufwand
 ca. 30 Min.  
 
-#### Zubereitung
+## Zubereitung
 * Nudeln mit 1 EL Öl in reichlich Salzwasser ca. 5 Min. garen. 
 * Porree und Möhren putzen, waschen und in feine Streifen schneiden.
 * Keime waschen.

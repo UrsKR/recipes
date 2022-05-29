@@ -7,7 +7,7 @@ side: kartoffeln
 origin: deutschland
 tags: fleisch einfach herbst
 ---
-#### Zutaten für 3 Portionen
+## Zutaten für 3 Portionen
 * 400 g durchwachsener Speck
 * 1 Zwiebel
 * 1/2 Liter Wasser
@@ -17,21 +17,21 @@ tags: fleisch einfach herbst
 * Bohnenkraut
 * Salz und Pfeffer
 
-##### Dazu
+### Dazu
 * Salzkartoffeln
 
-#### Material
+## Material
 * Großer Topf
 * Küchenmesser
 * Schälmesser
 * Kleiner Topf (für die Kartoffeln)
 * Essteller für den Speck
 
-#### Zeitaufwand
+## Zeitaufwand
 * Vorbereitung: 20'
 * Garzeit: 60'
 
-#### Zubereitung
+## Zubereitung
 * Bohnen waschen, Stile abschneiden und halbieren.
 * Zwiebel würfeln
 * Birnen waschen, Blütenansatz herausschneiden.

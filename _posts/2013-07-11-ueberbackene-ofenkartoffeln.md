@@ -7,7 +7,7 @@ tags: vegetarisch
 origin: peru
 ---
 
-#### Zutaten für 4 Personen
+## Zutaten für 4 Personen
 * 1,2-1,5 kg mittelgroße festkochende Kartoffeln  
 * 2-3 EL Öl  
 * Salz, weißer Pfeffer  
@@ -16,15 +16,15 @@ origin: peru
 * 200 g Schlagsahne  
 * 1 Bund Dill  
 
-#### Material
+## Material
 * Auflaufform  
 * Messbecher  
 * Gemüsemesser  
 
-#### Zeitaufwand
+## Zeitaufwand
 ca. 1 1/4 Std.  
 
-#### Zubereitung
+## Zubereitung
 * Kartoffeln putzen, schälen.
 * Ofen vorheizen auf 175°C / Umluft: 150°C.
 * Kartoffeln mit dem Messer einschneiden.
@@ -39,5 +39,5 @@ ca. 1 1/4 Std.
 * Dill abspülen, trockenschütteln, hacken.
 * Kartoffeln vor dem Servieren mit gehacktem Dill bestreuen
 
-#### Notizen
+## Notizen
 * Dazu grüner Salat

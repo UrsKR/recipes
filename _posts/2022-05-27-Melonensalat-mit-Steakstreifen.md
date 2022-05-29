@@ -7,7 +7,7 @@ meat: rind
 side: brot
 tags: sommer party grillen
 ---
-#### Zutaten für 3-4 Personen
+## Zutaten für 3-4 Personen
  * 1 Wassermelone (bzw. 1/2 große)
  * 1 Salatgurke
  * 2 Steaks oder Entrecôte (~500g)
@@ -17,16 +17,16 @@ tags: sommer party grillen
  * Salz und Pfeffer
  * Baguettebrot
 
-#### Material
+## Material
  * 2 Schüsseln
  * Brotkorb
  * Messer
  * Pfanne
 
-#### Zeitaufwand
+## Zeitaufwand
  40 Minuten
 
-#### Zubereitung
+## Zubereitung
  * Die Melone und Gurke schälen.
  * Melone, Feta und Gurke in zentimetergroße Würfel schneiden.
  * Melone, Feta, Gurke vermischen und mit wenig Öl und der Zitrone würzen.
@@ -35,5 +35,5 @@ tags: sommer party grillen
  * Das Baguettebrot aufschneiden.
  * Steak, Salat und Brot getrennt servieren.
 
-#### Notizen
+## Notizen
  * Salat nach Geschmack mit Minze garnieren

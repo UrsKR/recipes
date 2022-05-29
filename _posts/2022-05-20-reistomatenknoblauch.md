@@ -7,7 +7,7 @@ side: reis
 origin: israel
 tags: vegetarisch knoblauch
 ---
-#### Zutaten für 4 Personen als Hauptgericht / 6 als Beilage
+## Zutaten für 4 Personen als Hauptgericht / 6 als Beilage
  * 800g Kirschtomaten
  * 12 große Knoblauchzehen
  * 4 Schalotten
@@ -19,15 +19,15 @@ tags: vegetarisch knoblauch
  * Salz und Pfeffer
  * 600ml Wasser
 
-#### Material
+## Material
  * Auflaufform
  * Messer
 
-#### Zeitaufwand
+## Zeitaufwand
  15 Minuten Vorbereitung
  95 Minuten im Ofen
 
-#### Zubereitung
+## Zubereitung
  * Knoblauch schälen
  * Schalotten schälen und in 3cm große Stücke schneiden
  * 25g Koriandergrün in 4cm lange Stücke schneiden
@@ -46,5 +46,5 @@ tags: vegetarisch knoblauch
  * Mit Koriander bestreut servieren.
 
 
-#### Notizen
+## Notizen
  * Ausprobieren

@@ -5,8 +5,8 @@ type: kuchen
 origin: deutschland
 tags: suess obst einfach
 ---
-#### Zutaten für 16 Stück
-##### Für den Teig
+## Zutaten für 16 Stück
+### Für den Teig
 * 120 g Margarine (Halbfett)
 * 120 g Zucker
 * Mark einer Vanilleschote
@@ -17,22 +17,22 @@ tags: suess obst einfach
 * 2 TL Backpulver
 * 3 EL Milch, fettarm
 
-##### Für den Belag
+### Für den Belag
 * 500 g Pflaumen
 * 500 g Äpfel
 * ½ TL Zimt
 * 1 EL Zucker
 
-#### Material
+## Material
 * Schälmesser
 * Küchenmesser
 * Schüssel für den Teig
 * Backblech
 
-#### Zeitaufwand
+## Zeitaufwand
 90 Minuten  
 
-#### Zubereitung
+## Zubereitung
 * Margarine, Zucker, Vanillemark und Orangenschale und Eier schaumig rühren.
 * Mehl, Stärkemehl und Backpulver mischen und nach und nach unterziehen.
 * Milch hinzufügen, bis der Teig schwer reißend vom Löffel fällt.

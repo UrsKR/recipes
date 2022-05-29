@@ -7,7 +7,7 @@ meat: rind
 side: reis
 tags: fleisch reichhaltig gaeste
 ---
-#### Zutaten für 4 Personen
+## Zutaten für 4 Personen
  * 500 g Rinderfilet  
  * 2 große Zwiebeln  
  * 400 g Frische Champignons  
@@ -20,15 +20,15 @@ tags: fleisch reichhaltig gaeste
  * Mehl
  * gehackte Petersilie  
 
-#### Material
+## Material
  * Große Pfanne
  * Schüsseln für die zerlegten Einzelteile
  * Ofen, um das Fleisch warmzustellen
 
-#### Zeitaufwand 
+## Zeitaufwand 
   45min  
 
-#### Zubereitung
+## Zubereitung
 * Die Filetspitzen in sehr dünne Streifen von etwa 4 x 4 Millimetern
   Durchmesser und maximal 5 Zentimetern Länge schneiden. Mit den
   Gewürzgurken ähnlich verfahren, hier dürfen die Streifen allerdings

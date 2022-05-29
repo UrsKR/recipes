@@ -6,7 +6,7 @@ side: nudeln
 origin: italien
 tags: knoblauch variabel fleisch einfach
 ---
-#### Zutaten für 2 Personen
+## Zutaten für 2 Personen
 * 2 Schweinekoteletts
 * 300 g Spaghettini
 * 3 Tomaten
@@ -21,7 +21,7 @@ tags: knoblauch variabel fleisch einfach
 * Olivenöl
 * Wasser
 
-#### Material
+## Material
 * Pfanne für die Koteletts
 * Kleiner Topf für die Sauce
 * Großer Topf für die Nudeln  
@@ -29,10 +29,10 @@ tags: knoblauch variabel fleisch einfach
 * Küchenmesser  
 * Reibe für den Käse
 
-#### Zeitaufwand
+## Zeitaufwand
 30 Minuten
 
-#### Zubereitung
+## Zubereitung
 * Nudeln kochen.
 * Tomaten häuten.
 * Während das Wasser warm wird, die Kräuter kleinschneiden. Zwiebel und Knoblauch in
@@ -42,10 +42,10 @@ tags: knoblauch variabel fleisch einfach
 * Olivenöl im kleinen Topf erhitzen und die Zwiebel und die Hälfte des Knoblauchs darin schmoren. Wenn die Zwiebeln glasig sind, Tomatenstücke, Kräuter und den restlichen Knoblauch dazugeben. Tomatenmark einrühren und die Tomaten bei schwacher Hitze zerkochen, so daß eine feste Sauce entsteht.
 * Olivenöl in der Pfanne erhitzen und die Kotellets beidseitig scharf anbraten. Mit Salz und Pfeffer würzen, dann durchbraten.
 
-#### Notizen
-##### Vereinfachung
+## Notizen
+### Vereinfachung
 * Ohne Fleisch und mit getrockneten Kräutern ist das Gericht billig und schnell gemacht. 
 * Die Sauce kann auch mit passierten Tomaten oder Pizzatomaten zubereitet werden.
-##### Variante
+### Variante
 * Sauce mit weiteren mediterranen Kräutern (z.B. Salbei) anreichern.
 * 100g Mascarpone dazugeben.

@@ -6,7 +6,7 @@ type: auflauf
 side: nudeln
 tags: vegetarisch
 ---
-#### Zutaten für 2-3 Personen
+## Zutaten für 2-3 Personen
  * 500g Spaghetti
  * 250g Tomaten
  * 200g Feta
@@ -16,15 +16,15 @@ tags: vegetarisch
  * italienische Kräuter
  * Salz und Pfeffer
 
-#### Material
+## Material
  * Auflaufform
  * Backofen
 
-#### Zeitaufwand
+## Zeitaufwand
  * 10 Minuten Vorbereitung
  * 40 Minuten im Ofen
 
-#### Zubereitung
+## Zubereitung
  * Ofen vorheizen auf 180°C Umluft.
  * Nudeln in Auflaufform legen.
  * Feta halbieren und darauf legen.

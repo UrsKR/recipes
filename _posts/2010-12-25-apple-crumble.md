@@ -5,8 +5,8 @@ type: kuchen
 tags: reichhaltig suess vegetarisch obst winter
 origin: england
 ---
-#### Zutaten für 6 Personen
-##### Für die Apfelmasse
+## Zutaten für 6 Personen
+### Für die Apfelmasse
 * 1 kg Äpfel (Braeburn, Golden Delicious)  
 * 2 EL Zucker  
 * 1 TL Zimt  
@@ -15,19 +15,19 @@ origin: england
 * Saft von 1 Zitrone  
 * 1 Prise Nelkenpulver  
 
-##### Für die Streusel
+### Für die Streusel
 * 100 g Mehl  
 * 60 g geschmolzene Butter  
 * 50 g Zucker  
 * 1 Msp. Salz  
 
-##### Dazu
+### Dazu
 * 200 g Creme fraiche
 
-#### Zeitaufwand
+## Zeitaufwand
 ca 50 Minuten
 
-#### Zubereitung
+## Zubereitung
 * Ofen vorheizen auf 180°C.
 * Äpfel schälen, achteln,entkernen.
 * Rosinen einweichen.
@@ -41,5 +41,5 @@ ca 50 Minuten
 * Danach unter dem Grill leicht anbräunen.
 * Mit Créme fraîche servieren
 
-#### Notizen
+## Notizen
 * Calvados in die Créme fraîche für etwas Pfiff.

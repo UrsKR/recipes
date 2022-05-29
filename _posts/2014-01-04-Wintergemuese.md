@@ -7,21 +7,21 @@ side: reis
 origin: deutschland
 tags: winter vegetarisch
 ---
-#### Zutaten für 2 Personen
+## Zutaten für 2 Personen
  * 1 große Dose geschälte Tomaten
  * 1/2 Sellerie
  * 1 Knolle Fenchel
  * 3 Mohrrüben
  * 2 Tassen Naturreis
 
-#### Material
+## Material
  * Große Pfanne
  * Messer
 
-#### Zeitaufwand
+## Zeitaufwand
  30 min
 
-#### Zubereitung
+## Zubereitung
  * Reis aufsetzen
  * Gemüse zerkleinern und putzen
  * Gemüse braten

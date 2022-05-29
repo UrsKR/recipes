@@ -6,7 +6,7 @@ side: nudeln
 type: auflauf
 ---
 
-#### Zutaten für 4 Personen
+## Zutaten für 4 Personen
 * 800 g Weißkohl  
 * 500 g Möhren  
 * 2 Zwiebeln  
@@ -19,16 +19,16 @@ type: auflauf
 * Kümmel, gemahlener  
 * Fett für die Form  
 
-#### Material
+## Material
 * Topf  
 * Gemüsemesser  
 * Auflaufform  
 
-#### Zeitaufwand
+## Zeitaufwand
 Vorbereitungszeit 30 Minuten  
 Garzeit 35-40 Minuten  
 
-#### Zubereitung
+## Zubereitung
 * Weißkohl fein hobeln, Möhren grob raspeln, Zwiebeln würfeln. 
 * Das Öl in einem Topf erhitzen und die Zwiebelwürfel darin andünsten. 
 * Nach kurzer Zeit die Möhren zugeben, kurz mit durchschwitzen lassen. 

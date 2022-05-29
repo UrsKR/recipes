@@ -7,7 +7,7 @@ side: kartoffeln
 origin: deutschland
 tags: herbst herzhaft reichhaltig
 ---
-#### Zutaten für 2 Personen / 6 Teller voll
+## Zutaten für 2 Personen / 6 Teller voll
  * 1kg Grünkohl
  * 100g Schmalz
  * 100g Margarine
@@ -17,24 +17,24 @@ tags: herbst herzhaft reichhaltig
  * 6 Kochbirnen
  * Kartoffeln
 
-#### Material
+## Material
  * Messer
  * Sehr großer Topf
 
-#### Zeitaufwand
+## Zeitaufwand
  ca 1 Tag
 
-#### Zubereitung
-##### Am Vorabend
+## Zubereitung
+### Am Vorabend
  * Grünkohl im Wasserbad waschen
  * Zwiebeln hacken
  * Alles im großen Topf 2h kochen. Dabei nicht viel Wasser verwenden.
  * Nach Möglichkeit: Abkühlen lassen, danach nochmal 2h kochen.
 
-##### Am Verzehrtag
+### Am Verzehrtag
  * Noch einmal 2h kochen, gerne auch länger.
  * Birnen unten und oben aufschneiden.
  * Birnen und Wurst 1h vor Ende mitkochen.
 
-#### Notizen
+## Notizen
  * Dazu Salzkartoffeln

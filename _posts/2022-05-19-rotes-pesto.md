@@ -7,7 +7,7 @@ side: nudeln
 origin: italien
 tags: scharf vegetarisch knoblauch
 ---
-#### Zutaten für einen großen Topf
+## Zutaten für einen großen Topf
  * 3-4 kleine Chili
  * 100g Pinienkerne
  * 80g Parmesan
@@ -16,15 +16,15 @@ tags: scharf vegetarisch knoblauch
  * 2 Büsche Basilikum (oder ein XL-Topf von Aldi)
  * Olivenöl
 
-#### Material
+## Material
  * Messer
  * Häcksler oder Thermomix
  * Verschließbares Glas zur Aufbewahrung
 
-#### Zeitaufwand
+## Zeitaufwand
  30 Minuten
 
-#### Zubereitung
+## Zubereitung
  * Chili und Tomaten häckseln
  * Knoblauch schälen und mithäckseln
  * Käse mithäckseln
@@ -35,7 +35,7 @@ tags: scharf vegetarisch knoblauch
  * Verrühren
  * Ins Glas tun.
 
-#### Notizen
+## Notizen
  * Reicht wirklich für einen großen Topf (4+ Personen).
  * Schärfe variabel. Einfach weniger Chili nehmen.
  * Zubereitung am einfachsten im Thermomix. Häcksler ist eventuell zu klein.

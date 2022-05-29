@@ -6,7 +6,7 @@ tags: vegetarisch mediterran
 side: kartoffeln
 origin: griechenland
 ---
-#### Zutaten für 4 Portionen
+## Zutaten für 4 Portionen
 * 1 kg fest kochende Kartoffeln
 * 1 große rote Zwiebel
 * 5 Zweige frischer oder 2 TL getr. Rosmarin
@@ -16,16 +16,16 @@ origin: griechenland
 * 200 g Schafskäse
 * Salz, Pfeffer
 
-#### Material
+## Material
 * Sparschäler
 * Messer
 * Brett
 * Beschichtete Pfanne
 
-#### Zeitaufwand
+## Zeitaufwand
  40 Minuten
 
-#### Zubereitung
+## Zubereitung
 * Kartoffeln schälen, in 1 cm große Stücke schneiden.
 * Zwiebel vierteln, in feine Streifen schneiden.
 * Rosmarinnadeln abzupfen.
@@ -39,5 +39,5 @@ origin: griechenland
 * Mit Tomaten unter Kartoffeln mischen und kurz erhitzen.
 * Mit Pfeffer und evt. Salz abschmecken. Heiß servieren.
 
-#### Notizen
+## Notizen
 * Mengenverhältnisse passen gut wie angegeben.

@@ -8,21 +8,21 @@ side: SIDE
 origin: ORIGIN
 tags: TAGS
 ---
-#### Zutaten für 4 Personen
+## Zutaten für 4 Personen
  * X
  * Y
 
-#### Material
+## Material
  * A
  * B
 
-#### Zeitaufwand
+## Zeitaufwand
  ca 5h für diesunddas
 
-#### Zubereitung
+## Zubereitung
  * Machen
  * Tun
  * Essen
 
-#### Notizen
+## Notizen
  * Ausprobieren

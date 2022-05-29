@@ -6,7 +6,7 @@ side: kartoffeln
 origin: deutschland
 tags: einfach
 ---
-#### Zutaten für 1 Person
+## Zutaten für 1 Person
 * 1-2 Schweinekoteletts
 * 400g Erbsen aus der Dose
 * 3-4 Kartoffeln
@@ -14,16 +14,16 @@ tags: einfach
 * Salz
 * Wasser
 
-#### Material
+## Material
 * Pfanne für die Kotelett
 * Kleiner Topf für die Kartoffeln
 * Kleiner Topf für die Erbsen
 * Küchenmesser
 
-#### Zeitaufwand
+## Zeitaufwand
 40 Minuten
 
-#### Zubereitung
+## Zubereitung
 * Kartoffeln schälen, in daumendicke Scheiben schneiden und in Topf
   legen.
 * Wasser in Topf füllen, so daß die Kartoffeln gerade bedeckt sind. Salz

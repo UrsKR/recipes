@@ -6,7 +6,7 @@ meat: huhn
 side: kartoffeln
 tags: gefluegel
 ---
-#### Zutaten für 4 Personen
+## Zutaten für 4 Personen
 4 Hähnchenbrustfilets (à 150 g)  
 Salz, Pfeffer  
 4 EL Mehl  
@@ -16,15 +16,15 @@ Salz, Pfeffer
 2 EL geriebener Greyerzer  
 Paprika  
 
-#### Material
+## Material
 Pfanne  
 Auflauflaufform  
 Käsereibe  
 
-#### Zeitaufwand
+## Zeitaufwand
 ca. 40 Min.  
 
-####Zubereitung
+##Zubereitung
 * Hähnchenbrüste waschen, gut trocknen.
 * Salzen und pfeffern, anschließend in Mehl wenden.
 * Hälfte der Butter in einer Pfanne heiß werden lassen.
@@ -40,5 +40,5 @@ ca. 40 Min.
 * Hächnenbrüste in eine feuerfeste Form legen.
 * Sauce darüber gießen und im vorgeheizten Backofen gratinieren.
 
-#### Notizen
+## Notizen
 * Dazu Vichy-Möhren und Bratkartoffeln  

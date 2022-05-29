@@ -5,29 +5,29 @@ type: pudding
 origin: england
 tags: reichhaltig aufwaendig dessert herbst winter obst
 ---
-#### Zutaten für 4 Personen
-##### Grundlage
+## Zutaten für 4 Personen
+### Grundlage
 500 g Kochäpfel  
 30 g Butter  
 30 g Zuckergranulat  
 geriebene Schale einer kleinen Zitrone  
 
-#### Soße
+## Soße
 1 Ei  
 30 g Butter  
 30 g Weißmehl  
 425 ml Milch  
 30 g Zuckergranulat  
 
-#### Belag
+## Belag
 60 g Brauner Zucker  
 1/2 TL Zimt  
 15 g Butter  
 
-#### Zeitaufwand
+## Zeitaufwand
 ca. 50 Min.  
 
-#### Zubereitung
+## Zubereitung
 * Die Äpfel schälen, entkernen und in Scheiben schneiden.
 * Bringe 30 g Butter in einer mittelgroßen Pfanne zum schmelzen.
 * Äpfel und 30 g Zuckergranulat dazu geben.

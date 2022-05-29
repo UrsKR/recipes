@@ -4,20 +4,20 @@ title: Ofengemüse
 layout: post
 tags: vegetarisch einfach
 ---
-#### Zutaten für 2 Personen + Kind
+## Zutaten für 2 Personen + Kind
  * 2 Zuchini
  * 1 Paprika
  * 2 Möhren
  * 1 Aubergine
  * 2 Stück (ca 400g Feta)
 
-#### Material
+## Material
  * Backblech
 
-#### Zeitaufwand
+## Zeitaufwand
  * 45 Minuten
 
-#### Zubereitung
+## Zubereitung
  * Gemüse klein schneiden. Möhren reiben.
  * Gemüse aufs Backblech
  * Feta drauf

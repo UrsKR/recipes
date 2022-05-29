@@ -7,12 +7,12 @@ origin: marokko
 meat: lamm
 tags: arabisch fleisch knoblauch suess
 ---
-#### Zutaten für 4 Personen
-##### Fleisch
+## Zutaten für 4 Personen
+### Fleisch
  * 3 EL Olivenöl
  * 1 Lammkeule, etwa 1,7kg
  * 1 TL Ras el-Hanout
-##### Sauce/Beilage
+### Sauce/Beilage
  * 3 mittelgroße Zwiebeln
  * 8 Knoblauchzehen ohne Keim
  * 5 EL Olivenöl
@@ -29,16 +29,16 @@ tags: arabisch fleisch knoblauch suess
  * Schwarzer Pfeffer
  * 1 TL brauner Zucker
 
-#### Material
+## Material
  * Bräter
  * Fleischmesser
  * Großer Topf
 
-#### Zeitaufwand
+## Zeitaufwand
   1.5h für die Sauce/Beilage  
   4.5h für das Fleisch
 
-#### Zubereitung
+## Zubereitung
   * Zwiebeln und Knoblauch schälen und getrennt würfeln. Karotten schälen und in 1 cm dicke Scheiben schneiden. Kichererbsen kalt abspülen.
   * 3 EL Olivenöl in Top erhitzen. Zwiebeln ohne Farbe anschwitzen. Knoblauch mit anschwitzen.
   * Tomaten und Kreuzkümmel dazu. Durchrühren.
@@ -51,7 +51,7 @@ tags: arabisch fleisch knoblauch suess
   * Fleisch aus dem Bräter und aufschneiden.
   * Sauce aufkochen und abschmecken.
 
-#### Notizen
+## Notizen
   * Sauce ist dank der Kichererbsen sehr reichhaltig. Keine weitere Beilage nötig.
   * Sauce evtl. ohne Zucker. Datteln sind sehr süß!
   * Sauce taugt auch für Pilawgerichte oder als Eintopf.

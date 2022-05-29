@@ -8,7 +8,7 @@ side: reis
 origin: indonesien
 tags: fleisch obst suess sauer
 ---
-#### Zutaten für 4 Personen
+## Zutaten für 4 Personen
  * 375g Pute
  * Frühlingszwiebeln, 1 Bund
  * O-Saft, 100ml
@@ -26,14 +26,14 @@ tags: fleisch obst suess sauer
  * Zucker
  * Beilage: Basmati-Reis oder Jasmin-Reis.
 
-#### Material
+## Material
  * Wok
  * Messer
 
-#### Zeitaufwand
+## Zeitaufwand
  60 Minuten
 
-#### Zubereitung
+## Zubereitung
  * Alle Zutaten zerkleinern.
  * Butterschmalz im Wok erhitzen. Pute mit Mehl bestäuben und anbraten.
  * Mit O-Saft ablöschen.
@@ -42,5 +42,5 @@ tags: fleisch obst suess sauer
  * Mit Creme Fraiche verrühren
  * Würzen und mit Kokosraspel bestreut servieren.
 
-#### Notizen
+## Notizen
  * Dazu Reis

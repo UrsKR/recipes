@@ -5,21 +5,21 @@ type: beilage
 origin: frankreich
 tags: vegetarisch einfach
 ---
-#### Zutaten für 4 Personen
+## Zutaten für 4 Personen
 * 750 g junge Möhren 
 * 80 g Butter 
 * 1 Msp. Zucker 
 * Salz 
 * eventuell 1 EL gehackte Petersilie 
 
-#### Material
+## Material
 * Topf 
 * Gemüsehobel  
 
-#### Zeitaufwand
+## Zeitaufwand
 25 Minuten
 
-#### Zubereitung
+## Zubereitung
 * Möhren putzen un din dicke Scheiben schneiden. 
 * Butter in einem Topf schmelzen lassen.
 * Möhren darin andünsten, mit Zucker bestreuen. 

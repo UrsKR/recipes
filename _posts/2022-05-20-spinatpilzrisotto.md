@@ -7,7 +7,7 @@ side: reis
 origin: italien
 tags: vegetarisch knoblauch
 ---
-#### Zutaten für 2 Personen
+## Zutaten für 2 Personen
  * 125g Spinat
  * 500g Champignons
  * 1 große Zwiebel
@@ -18,14 +18,14 @@ tags: vegetarisch knoblauch
  * 1 Tasse Risottoreis
  * Salz und Pfeffer
 
-#### Material
+## Material
  * Messer
  * Topf
 
-#### Zeitaufwand
+## Zeitaufwand
  45 Minuten
 
-#### Zubereitung
+## Zubereitung
  * Gemüse waschen, putzen, häckseln
  * Butter im Topf schmelzen
  * Zwiebel und Knoblauch andünsten

@@ -7,7 +7,7 @@ side: nudeln
 origin: frankreich
 tags: hackfleisch mediterran fleisch
 ---
-#### Zutaten für 4 Portionen
+## Zutaten für 4 Portionen
 * 400 g Tagliatelle
 * 300 g gemischte Paprikaschoten
 * 250 g Zucchini
@@ -22,17 +22,17 @@ tags: hackfleisch mediterran fleisch
 * Salz und Pfeffer
 * 1/2 Bund Schnittlauch
 
-#### Material
+## Material
 * Topf
 * Messer
 * Pfanne
 * Auflaufform
 
-#### Zeitaufwand
+## Zeitaufwand
 20 Minuten Zubereitung
 20 Minuten garen
 
-#### Zubereitung
+## Zubereitung
 * Tagliatelle in Salzwasser kochen
 * In eine gefettete Form geben.
 * Paprika, Zucchini und Zwiebeln  fein würfeln.

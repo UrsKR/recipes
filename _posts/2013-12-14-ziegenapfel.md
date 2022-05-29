@@ -5,7 +5,7 @@ author: Urs
 origin: frankreich
 tags: suess obst gaeste vegetarisch
 ---
-#### Zutaten für 2 Person
+## Zutaten für 2 Person
 
  * 1 großer Apfel  
  * 4 Scheiben Ziegenfrischkäse  
@@ -15,16 +15,16 @@ tags: suess obst gaeste vegetarisch
  * 1 EL Butter  
  * 1/2 EL Balsamico  
 
-#### Material
+## Material
  * Backofen mit Rost oder Blech  
  * Kleine Auflaufform  
  * Messer  
  * Durchschlag  
 
-#### Zeitaufwand 
+## Zeitaufwand 
   45min  
 
-#### Zubereitung
+## Zubereitung
 * Ofen auf 225°C (Ober-/Unterhitze) vorheizen
 * Apfel in 4 dicke Scheiben schneiden und aus jeder Scheibe das
   Kerngehäuse entfernen.

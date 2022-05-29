@@ -6,7 +6,7 @@ type: auflauf
 side: nudeln
 ---
 
-#### Zutaten für 4-6 Personen
+## Zutaten für 4-6 Personen
 * 1/2 Kopf Wirsing (etwa 400g: je nach Größe eher 3/4 des Kopfes)
 * 500g Ravioli mit Frischkäse-Kräuter-Füllung (aus dem Kühlregal)
 * 200g Schlagsahne
@@ -16,17 +16,17 @@ side: nudeln
 * Salz und Pfeffer
 * Fett für Auflaufform
 
-#### Material
+## Material
 * Große Auflaufform
 * Großer Topf zum Blanchieren
 * Kleiner Topf für Ravioli
 * Kleiner Topf für Sahne
 * Großes Messer
 
-#### Zeitaufwand
+## Zeitaufwand
 45 Minuten inklusive Backen
 
-#### Zubereitung
+## Zubereitung
 * Ofen auf 200 Grad vorheizen.
 * Wirsing putzen und zerkleinern. Etwa 2 Minuten blanchieren. Abschrecken und Abtropfen lassen.
 * Ravioli nach Packungsangabe zubereiten.

@@ -6,7 +6,7 @@ meat: schwein
 side: kartoffeln
 tags: fleisch
 ---
-#### Zutaten für 1 Person
+## Zutaten für 1 Person
 * 1 Schweineschnitzel
 * 1/2 Kopf Blumenkohl
 * 3-4 Kartoffeln
@@ -19,17 +19,17 @@ tags: fleisch
 * Salz und Pfeffer
 * Wasser
 
-#### Material
+## Material
 * Pfanne für die Schnitzel
 * Kleiner Topf für die Kartoffeln
 * Großer Topf für den Blumenkohl
 * Kleiner Topf für die Sauce
 * Küchenmesser
 
-#### Zeitaufwand
+## Zeitaufwand
 30 Minuten
 
-#### Zubereitung
+## Zubereitung
 * Kartoffeln schälen, in daumendicke Scheiben schneiden und in Topf
   legen.
 * Wasser in Topf füllen, so daß die Kartoffeln gerade bedeckt sind. Salz

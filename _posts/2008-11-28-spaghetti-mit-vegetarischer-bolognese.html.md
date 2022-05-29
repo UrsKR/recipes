@@ -4,7 +4,7 @@ title: Spaghetti mit vegetarischer Bolognese
 side: nudeln
 tags: billig knoblauch vegetarisch schnell einfach
 ---
-#### Zutaten für 2 Personen
+## Zutaten für 2 Personen
 * 400g Spaghetti
 * 500g vegetarische Bolognese (z.B. Alnatura)
 * 1 Knoblauchzehe
@@ -12,15 +12,15 @@ tags: billig knoblauch vegetarisch schnell einfach
 * Salz
 * Wasser
 
-#### Material
+## Material
 * Großer Topf für die Nudeln
 * Kleiner Topf für die Soße
 * Küchenmesser
 
-#### Zeitaufwand
+## Zeitaufwand
  15 Minuten
 
-#### Zubereitung
+## Zubereitung
 * Spaghetti nach Packungsanweisung kochen
 * Während der Wartezeit den Knoblauch schälen und zerkleinern.
 * Im kleinen Topf die vegetarische Bolognese und den Knoblauch auf

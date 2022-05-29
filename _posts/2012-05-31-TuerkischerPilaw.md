@@ -8,7 +8,7 @@ side: reis
 origin: tuerkei
 tags: gefluegel arabisch
 ---
-#### Zutaten für 2 Personen + Kind
+## Zutaten für 2 Personen + Kind
 * 450g Hähnchenbrustfilet
 * 1 Bund Frühlingszwiebeln
 * 1 Paprikaschote
@@ -27,16 +27,16 @@ tags: gefluegel arabisch
 * 200g Joghurt
 * Wasser
 
-#### Material
+## Material
  * Wok mit Deckel
  * Rührlöffel
  * Messer
  * Topf, um die Tomaten zu häuten
 
-#### Zeitaufwand
+## Zeitaufwand
  ca 1h
 
-#### Zubereitung
+## Zubereitung
  * Fleisch in Würfel schneiden. Frühlingszwiebeln, Paprika, Knoblauch zerkleinern. Tomaten schälen und zerkleinern.
  * Öl in Pfanne erhitzen, Huhn anbraten, dann Paprika, Frühlingszwiebeln und Knoblauch dazu und bei starker Hitze einige Minuten weiterbraten. Dabei umrühren!
  * Chili in die Pfanne krümeln, Rosinen, Reis und Tomaten dazu. Fond dazu. Aufkochen.
