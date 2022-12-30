@@ -26,7 +26,9 @@ tags: fleisch reichhaltig gaeste
  * Ofen, um das Fleisch warmzustellen
 
 ## Zeitaufwand 
-  45min  
+  45min Vorbereitung 
+  30min Kochen
+
 
 ## Zubereitung
 * Die Filetspitzen in sehr dünne Streifen von etwa 4 x 4 Millimetern
