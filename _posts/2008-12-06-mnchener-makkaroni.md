@@ -2,7 +2,7 @@
 layout: post
 title: Münchener Makkaroni
 origin: deutschland
-meat: schein
+meat: schwein
 side: nudeln
 type: eintopf
 tags: hackfleisch schnell
