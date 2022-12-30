@@ -5,6 +5,7 @@ layout: post
 meat: schwein
 side: reis
 tags: lecker einfach
+origin: ungarn
 ---
 ## Zutaten für 3 Portionen
  * 5 Paprikaschoten
