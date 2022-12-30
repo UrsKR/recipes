@@ -2,7 +2,7 @@
 author: Urs
 title: Gefüllte Paprikaschoten
 layout: post
-meat: schwein
+meat: gemischt
 side: reis
 tags: lecker einfach
 origin: ungarn
