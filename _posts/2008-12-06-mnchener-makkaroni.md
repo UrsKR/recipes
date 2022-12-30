@@ -28,7 +28,7 @@ tags: hackfleisch schnell
 ## Zubereitung
 * Gemüse zerkleinern und putzen
 * Nudeln nach Packungsanweisung kochen.
-* Zwiebeln fein hacken und zusammen mit Hackfleisch krümmelig braten.
+* Zwiebeln fein hacken und zusammen mit dem Hackfleisch krümmelig braten.
 * Mit Brühwürfel, Salz und Pfeffer würzen.
 * Zerkleinertes Gemüse dazugeben und mit andünsten.
 * Kräftig mit Fondor abschmecken.
