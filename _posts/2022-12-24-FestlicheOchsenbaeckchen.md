@@ -1,6 +1,6 @@
 ---
 author: Urs
-title: Festliche Ochsenbäckchen
+title: Ochsenbäckchen, Festliche
 layout: post
 type: braten
 meat: rind
