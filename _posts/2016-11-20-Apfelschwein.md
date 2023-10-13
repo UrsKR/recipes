@@ -4,7 +4,7 @@ title: Apfelschwein
 type: auflauf
 meat: schwein
 side: reis
-tags: reichhaltig obst schwein variabel suess
+tags: obst schwein suess
 ---
 
 ## Zutaten für 3 Portionen 
