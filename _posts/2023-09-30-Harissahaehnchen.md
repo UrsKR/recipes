@@ -3,8 +3,8 @@ layout: post
 title: Harissa-Hähnchen mit Bulgur
 type: braten
 side: bulgur
-tags: huhn
-meat: fleisch aufwaendig arabisch gaeste gefluegel knoblauch
+meat: huhn
+tags: fleisch aufwaendig arabisch gaeste gefluegel knoblauch
 origin: frankreich
 ---
 
