@@ -2,12 +2,12 @@
 layout: post
 title: Apfelschwein
 type: auflauf
+meat: schwein
 side: reis
 tags: reichhaltig obst schwein variabel suess
 ---
 
 ## Zutaten für 3 Portionen 
-### Für den Auflauf
 * 500 Gramm Schweinefilet o. -schnitzel
 * 4 mittelgroße Äpfel
 * 300 Gramm Reis
