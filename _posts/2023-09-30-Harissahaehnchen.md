@@ -5,7 +5,6 @@ type: braten
 side: bulgur
 meat: huhn
 tags: fleisch aufwaendig arabisch gaeste gefluegel knoblauch
-origin: frankreich
 ---
 
 ## Zutaten für 4 Portionen 
