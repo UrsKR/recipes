@@ -70,6 +70,7 @@ tags: fleisch aufwaendig arabisch gaeste gefluegel knoblauch
 * Topf von Herd, mit Tuch zudecken und Deckel wieder drauf.
 * Kräuter zupfen und unter den Bulgur mischen.
 
+### Servieren
 * Am Ende das Hähnchen 10 Minuten ruhen lassen.
 * Saft der Zitrone aus der Bauchhöhle drüberpressen.
 * Tranchieren und mit Joghurt servieren.
