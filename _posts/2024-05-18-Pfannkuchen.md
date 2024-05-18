@@ -2,8 +2,6 @@
 author: Urs
 title: Pfannkuchen
 layout: post
-meat: 
-origin: unknown
 tags: süß lecker vegetarisch
 ---
 ## Zutaten für 10 Pfannkuchen
