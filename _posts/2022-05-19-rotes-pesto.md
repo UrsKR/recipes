@@ -1,6 +1,6 @@
 ---
 author: Urs
-title: Rotes Pesto
+title: Pesto, Rot
 layout: post
 type: beilage
 side: nudeln
