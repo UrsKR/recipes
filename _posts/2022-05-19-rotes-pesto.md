@@ -39,3 +39,4 @@ tags: scharf vegetarisch knoblauch
  * Reicht wirklich für einen großen Topf (4+ Personen).
  * Schärfe variabel. Einfach weniger Chili nehmen.
  * Zubereitung am einfachsten im Thermomix. Häcksler ist eventuell zu klein.
+ * Pinienkerne können durch Walnusskerne ersetzt werden.
