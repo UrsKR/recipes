@@ -24,7 +24,7 @@ tags: obst schwein suess
 * Reibe  
   
 ## Zeitaufwand
- * 70 Minuten - 25 Minuten Vorbereitung und nochmal 45 im Ofen
+ * 60 Minuten - 15 Minuten fokussierte Vorbereitung und 45 im Ofen
 
 ## Zubereitung  
 * Ofen auf 180°C vorheizen.
