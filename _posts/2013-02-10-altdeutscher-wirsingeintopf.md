@@ -5,7 +5,7 @@ meat: schwein
 side: kartoffeln
 type: eintopf
 origin: deutschland
-tags: herbst winter
+tags: herbst winter einfach
 ---
 ## Zutaten für 6 Personen
 * 1 kg Wirsing  
