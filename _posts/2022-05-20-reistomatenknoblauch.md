@@ -28,6 +28,7 @@ tags: vegetarisch knoblauch
  95 Minuten im Ofen
 
 ## Zubereitung
+ * Tomaten waschen und halbieren
  * Knoblauch schälen
  * Schalotten schälen und in 3cm große Stücke schneiden
  * 25g Koriandergrün in 4cm lange Stücke schneiden
@@ -47,4 +48,4 @@ tags: vegetarisch knoblauch
 
 
 ## Notizen
- * Ausprobieren
+ * Schmeckt auch ohne Koriander.
