@@ -8,7 +8,7 @@ tags: suess vegetarisch
 ## Zutaten für 18 Stück
 * 350g Weizenmehl
 * 250g Butter
-* 130g Zucker ("Caster Sugar", im Mixer zerkleinert oder regulär. Kein Puderzucker!)
+* 130g Zucker (Ursprünglich "Caster Sugar", alternativ im Mixer zerkleinerter Haushaltszucker. Oder unzerkleinert. Aber kein Puderzucker!)
 * gut 1/2 Teelöffel Salz
 
 ## Material:
