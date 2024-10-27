@@ -24,8 +24,7 @@ tags: suess vegetarisch
 
 ## Zubereitung
 * Backofen auf 180°C vorheizen.
-* Zucker, Mehl, Salz und Butter in der Küchenmaschine verrühren, bis die Masse groben Brotkrumen ähnelt.  
-Sie soll weich und formbar sein und sich unter Fingerdruck zu Teig verbinden. Ist sie noch zu trocken und krümelig, weiterrühren. Dabei auch ggf. weitere Zutaten hinein.
+* Zucker, Mehl, Salz und Butter in der Küchenmaschine verrühren, bis die Masse groben Brotkrumen ähnelt. Sie soll weich und formbar sein und sich unter Fingerdruck zu Teig verbinden. Ist sie noch zu trocken und krümelig, weiterrühren. Dabei auch ggf. weitere Zutaten hinein.
 * Kuchenform fetten.
 * Teig in die Kuchenform geben. 
 * Mit Fingern und Händen in der Form zusammendrücken.
@@ -37,5 +36,5 @@ Sie soll weich und formbar sein und sich unter Fingerdruck zu Teig verbinden. Is
 
 ## Notizen
 * Weitere Zutaten wie kandierten Ingwer, getrocknete Cranberries oder kandierte Zitronenschale nach Geschmack.
-* Wenn die Löcher bleiben sollen ggf. nach dem Backen noch einmal einstechen. 
+* Wenn die Löcher bleiben sollen ggf. nach dem Backen noch einmal einstechen, während der Teig noch warm ist. 
 * In einem luftdichten Behältnis mehrere Wochen haltbar. Geschmack und Textur verbessern sich während der Lagerung.
