@@ -35,6 +35,8 @@ tags: suess vegetarisch
 * Schneiden und servieren.
 
 ## Notizen
+* 100g Zucker/ 220g Butter?
+* 1/3 Dinkelvollkornmehl ist kein Problem.
 * Weitere Zutaten wie kandierten Ingwer, getrocknete Cranberries oder kandierte Zitronenschale nach Geschmack.
 * Wenn die Löcher bleiben sollen ggf. nach dem Backen noch einmal einstechen, während der Teig noch warm ist. 
 * In einem luftdichten Behältnis mehrere Wochen haltbar. Geschmack und Textur verbessern sich während der Lagerung.
