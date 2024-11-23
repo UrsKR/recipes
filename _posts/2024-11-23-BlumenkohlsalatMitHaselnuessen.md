@@ -2,7 +2,7 @@
 author: Urs
 title: Salat von geröstetem Blumenkohl mit Haselnüssen
 layout: post
-type: beilage
+type: salat
 origin: israel
 tags: vegetarisch
 ---
