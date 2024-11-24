@@ -36,7 +36,7 @@ tags: vegetarisch
 * Backofen auf 220°C vorheizen.
 * Olivenöl mit 1/2TL Salz und etwas Pfeffer verrühren.
 * Blumenkohl im Öl wenden.
-* Blumenkohl in der Form verteilen und 25-35 Minuten auf der obersten Schiene rösten, bis er knusprig braun ist.
+* Blumenkohl in der Form verteilen und 25-35 Minuten auf der obersten Schiene rösten, bis er knusprig braun ist. Ober-/Unterhitze! Nicht Grillen!
 * Blumenkohl in der Schüssel abkühlen lassen.
 * Backofen auf 170°C herunterkühlen.
 * Haselnusskerne auf Backblech mit Backpapier 17 Minuten rösten.
