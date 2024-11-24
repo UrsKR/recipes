@@ -41,7 +41,8 @@ tags: vegetarisch
 * Backofen auf 170°C herunterkühlen.
 * Haselnusskerne auf Backblech mit Backpapier 17 Minuten rösten.
 * Haselnusskerne abkühlen lassen.
-* Haselnusskerne grob hacken und mit den restlichen Zutaten zum Blumenkohl geben.
+* Haselnusskerne grob hacken.
+* Nüsse, Gewürze und restliche Zutaten zum Blumenkohl geben.
 * Durchmischen und mit Salz & Pfeffer abschmecken.
 * Zimmerwarm servieren.
  
