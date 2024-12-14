@@ -13,7 +13,9 @@ meat: fisch
  * Olivenöl
   
 ## Material
- * Kochtopf
+ * Messer
+ * Pfanne
+ * Knoblauchpresse
 
 ## Zeitaufwand
  30 Minuten
