@@ -2,7 +2,8 @@
 author: Urs
 title: Fixer Lachs
 layout: post
-tags: fisch knoblauch
+tags: knoblauch
+meat: fisch
 ---
 ## Zutaten für 2 Personen
  * 2 mittelgroße Lachsfilets (ca. 250g)
