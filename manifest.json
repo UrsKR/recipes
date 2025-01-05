@@ -1,0 +1,12 @@
+{
+    "theme_color": "#9013fe",
+    "background_color": "#9013fe",
+    "display": "standalone",
+    "scope": "/recipes/",
+    "start_url": "/recipes/",
+    "name": "Recipes",
+    "short_name": "Recipes",
+    "description": "Recipes Urs likes to cook",
+    "icons": [],
+    "screenshots": []
+}
