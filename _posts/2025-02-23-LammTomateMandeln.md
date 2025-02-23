@@ -4,6 +4,7 @@ title: Lamm mit gesüßter Tomatensoße und Mandeln
 layout: post
 type: eintopf
 meat: lamm
+side: couscous
 tags: gaeste suess tajine knoblauch
 ---
 ## Zutaten für 4-6 Personen
