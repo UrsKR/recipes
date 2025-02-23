@@ -28,7 +28,8 @@ tags: gaeste suess tajine knoblauch
 
 ## Zeitaufwand
  30 Minuten Vorbereitung  
- 45 Minuten Garzeit
+ 75 Minuten Garzeit
+ 30 Minuten Fertigmachen
 
 ## Zubereitung
  * Zwiebeln fein hacken
