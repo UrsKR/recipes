@@ -4,7 +4,8 @@ title: Schoko-Bier-Gulasch
 layout: post
 type: eintopf
 side: kartoffeln
-tags: gaeste lecker aufwaendig scharf
+meat: rind
+tags: gaeste lecker aufwaendig scharf fleisch
 ---
 ## Zutaten für 4 Personen
 - 1-5 rote Chilis
