@@ -1,7 +1,7 @@
 ---
 author: Urs
 title: NAME
-layout: post
+
 type: TYPE
 meat: MEAT
 side: SIDE

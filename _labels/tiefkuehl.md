@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: tiefkuehl
+layout: tag
+taxonomy: tiefkuehl
 ---

@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: gaeste
+layout: tag
+taxonomy: gaeste
 ---

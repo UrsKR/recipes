@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: herbst
+layout: tag
+taxonomy: herbst
 ---

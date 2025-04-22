@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: billig
+layout: tag
+taxonomy: billig
 ---

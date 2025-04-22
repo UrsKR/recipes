@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: variabel
+layout: tag
+taxonomy: variabel
 ---

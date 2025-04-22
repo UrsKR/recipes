@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: mediterran
+layout: tag
+taxonomy: mediterran
 ---

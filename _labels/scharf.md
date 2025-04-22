@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: scharf
+layout: tag
+taxonomy: scharf
 ---

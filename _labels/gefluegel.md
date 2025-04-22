@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: gefluegel
+layout: tag
+taxonomy: gefluegel
 ---

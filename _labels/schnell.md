@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: schnell
+layout: tag
+taxonomy: schnell
 ---

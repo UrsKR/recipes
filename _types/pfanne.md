@@ -1,4 +1,4 @@
 ---
-layout: types
+layout: type
 tag-name: pfanne
 ---

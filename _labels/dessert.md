@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: dessert
+layout: tag
+taxonomy: dessert
 ---

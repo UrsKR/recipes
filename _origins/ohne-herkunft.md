@@ -1,3 +1,3 @@
 ---
-layout: origins
+layout: origin
 ---

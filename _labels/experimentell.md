@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: experimentell
+layout: tag
+taxonomy: experimentell
 ---

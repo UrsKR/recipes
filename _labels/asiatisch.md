@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: asiatisch
+layout: tag
+taxonomy: asiatisch
 ---

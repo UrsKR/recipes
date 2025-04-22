@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: obst
+layout: tag
+taxonomy: obst
 ---

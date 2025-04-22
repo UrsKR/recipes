@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: suess
+layout: tag
+taxonomy: suess
 ---

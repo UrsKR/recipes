@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: arabisch
+layout: tag
+taxonomy: arabisch
 ---

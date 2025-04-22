@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: fleisch
+layout: tag
+taxonomy: fleisch
 ---

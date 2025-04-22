@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: festlich
+layout: tag
+taxonomy: festlich
 ---

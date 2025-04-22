@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: auflauf
+layout: tag
+taxonomy: auflauf
 ---

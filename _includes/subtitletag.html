@@ -1,16 +1,12 @@
 {% assign property = page[include.property] %}
 {% if property %}
 <span class="site-tag">
-  <a href="{{ site.baseurl }}/{{include.urlpath}}/{{ property | slugify}}/">
-    {{ property | replace:'-', ' ' | capitalize}}
-  </a>
+  <a href="{{ site.baseurl }}/{{include.urlpath}}/{{ property | slugify}}/">{{ property | replace:'-', ' ' | capitalize}}</a>
 </span>
 {% else %}
   {% assign nilpath = site.data.nils[include.property] %}
   {% assign nilname = site.data.i18n.nil[include.property] %}
   <span class="site-tag">
-    <a href="{{ site.baseurl }}/{{include.urlpath}}/{{nilpath}}/">
-      {{nilname}}
-    </a>
+    <a href="{{ site.baseurl }}/{{include.urlpath}}/{{nilpath}}/">{{nilname}}</a>
   </span>
 {% endif %}

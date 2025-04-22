@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: instant
+layout: tag
+taxonomy: instant
 ---

@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: fragment
+layout: tag
+taxonomy: fragment
 ---

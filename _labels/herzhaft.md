@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: herzhaft
+layout: tag
+taxonomy: herzhaft
 ---

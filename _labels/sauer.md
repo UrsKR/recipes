@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: sauer
+layout: tag
+taxonomy: sauer
 ---

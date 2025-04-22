@@ -1,3 +1,3 @@
 ---
-layout: types
+layout: type
 ---

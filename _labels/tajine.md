@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: tajine
+layout: tag
+taxonomy: tajine
 ---

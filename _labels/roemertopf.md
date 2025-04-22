@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: römertopf
+layout: tag
+taxonomy: römertopf
 ---

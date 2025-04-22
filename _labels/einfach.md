@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: einfach
+layout: tag
+taxonomy: einfach
 ---

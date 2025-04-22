@@ -1,7 +1,10 @@
-theme: jekyll-theme-architect
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 url: https://urskr.github.io
 baseurl: /recipes
 title: Meine Rezepte
+description: "Stuff I like to cook."
+repository: "urskr/recipes"
+
 collections:
   labels:
     output: true
@@ -18,3 +21,27 @@ collections:
   origins:
     output: true
     permalink: /origins/:path/
+
+include: ["_pages"]
+
+site-locale: de-DE
+search: true
+lunr:
+  search_within_pages: true
+
+defaults:
+  # _posts
+  - 
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author: "Urs"
+      author_profile: true
+      toc: true
+      toc_label: Inhalt
+      toc_sticky: true
+      tagline: "" #else posts show their first line as tagline
+      #header:
+        #overlay_image: /assets/images/image.png

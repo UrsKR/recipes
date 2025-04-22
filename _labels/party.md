@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: party
+layout: tag
+taxonomy: party
 ---

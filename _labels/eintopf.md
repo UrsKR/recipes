@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: eintopf
+layout: tag
+taxonomy: eintopf
 ---

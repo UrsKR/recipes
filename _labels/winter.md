@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: winter
+layout: tag
+taxonomy: winter
 ---

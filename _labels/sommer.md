@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: sommer
+layout: tag
+taxonomy: sommer
 ---

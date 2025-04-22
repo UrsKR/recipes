@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: reichhaltig
+layout: tag
+taxonomy: reichhaltig
 ---

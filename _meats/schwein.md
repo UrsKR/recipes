@@ -1,4 +1,4 @@
 ---
-layout: meats
+layout: meat
 tag-name: schwein
 ---

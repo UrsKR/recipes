@@ -1,4 +1,4 @@
 ---
-layout: tags
-tag-name: aufwaendig
+layout: tag
+taxonomy: aufwaendig
 ---
