@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Schnitzel mit Blumenkohl und Kartoffeln
-origin: deutschland
-meat: schwein
-side: kartoffeln
-tags: fleisch
+tags: meat-pork side-potatoes origin-germany
 ---
 ## Zutaten für 1 Person
 * 1 Schweineschnitzel
@@ -24,7 +21,6 @@ tags: fleisch
 * Kleiner Topf für die Kartoffeln
 * Großer Topf für den Blumenkohl
 * Kleiner Topf für die Sauce
-* Küchenmesser
 
 ## Zeitaufwand
 30 Minuten

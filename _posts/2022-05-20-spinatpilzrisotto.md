@@ -1,11 +1,7 @@
 ---
-author: Urs
 title: Spinat-Pilz-Risotto
 layout: post
-type: risotto
-side: reis
-origin: italien
-tags: vegetarisch knoblauch
+tags: vegetarisch knoblauch type-risotto origin-italy
 ---
 ## Zutaten für 2 Personen
  * 125g Spinat
@@ -19,7 +15,6 @@ tags: vegetarisch knoblauch
  * Salz und Pfeffer
 
 ## Material
- * Messer
  * Topf
 
 ## Zeitaufwand

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Linseneintopf
-meat: schwein
-tags: billig eintopf einfach
+tags: billig eintopf einfach meat-pork
 ---
 ## Zutaten für 4 Person
 * 400 g braune Linsen
@@ -16,8 +15,6 @@ tags: billig eintopf einfach
 
 ## Material
 * Großer Topf
-* Holzlöffel zum Umrühren
-* Küchenmesser
 
 ## Zeitaufwand
 90 Minuten, nach Möglichkeit auch länger

@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Birnen, Bohnen und Speck
-type: eintopf
-meat: schwein
-side: kartoffeln
-origin: deutschland
-tags: fleisch einfach herbst
+tags: einfach herbst meat-pork side-potatoes origin-germany type-onepot
 ---
 ## Zutaten für 3 Portionen
 * 400 g durchwachsener Speck
@@ -22,10 +18,7 @@ tags: fleisch einfach herbst
 
 ## Material
 * Großer Topf
-* Küchenmesser
-* Schälmesser
 * Kleiner Topf (für die Kartoffeln)
-* Essteller für den Speck
 
 ## Zeitaufwand
 * Vorbereitung: 20'

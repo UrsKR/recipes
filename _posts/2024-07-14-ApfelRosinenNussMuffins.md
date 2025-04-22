@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Apfel-Rosinen-Nuss-Muffins
-type: kuchen
-tags: suess vegetarisch winter
+tags: suess vegetarisch winter type-cake
 ---
 ## Zutaten für 12 Muffins
 ### Trockene Zutaten:

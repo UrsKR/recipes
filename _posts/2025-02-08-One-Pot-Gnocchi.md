@@ -1,9 +1,7 @@
 ---
-author: Urs
 title: One-Pot-Gnocchi mit Tomaten
 layout: post
-type: auflauf
-tags: vegetarisch
+tags: vegetarisch type-casserole
 ---
 ## Zutaten für 4 Personen
 * 200g Sahne (1 Packung)
@@ -23,7 +21,6 @@ tags: vegetarisch
 ## Material
  * Backofen
  * Auflaufform
- * Messer
 
 ## Zeitaufwand
  45 Minuten

@@ -1,9 +1,7 @@
 ---
-author: Urs
 title: Baumstämme
 layout: post
-type: Kuchen
-tags: vegetarisch fragment
+tags: vegetarisch fragment type-cake
 ---
 ## Zutaten für einen Kuchen
 ### Für den Kuchen

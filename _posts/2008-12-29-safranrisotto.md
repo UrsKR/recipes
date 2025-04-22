@@ -3,7 +3,7 @@ layout: post
 title: Safranrisotto
 type: risotto
 side: reis
-tags: einfach
+tags: einfach type-risotto side-rice
 ---
 ## Zutaten für 4 Person
  * 1 Zwiebel
@@ -21,8 +21,6 @@ tags: einfach
 
 ## Material
 * Großer Topf
-* Löffel zum Umrühren
-* Küchenmesser
 * Schüssel zum Anrühren
 
 ## Zeitaufwand

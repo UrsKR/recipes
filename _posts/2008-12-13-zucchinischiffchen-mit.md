@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Zucchinischiffchen mit Hackfleischfüllung
-meat: schwein
-side: reis
-tags: hackfleisch einfach fleisch
+tags: hackfleisch einfach meat-pork side-rice
 ---
 ## Zutaten für 2 Person
 * 2 Zucchini
@@ -19,8 +17,6 @@ tags: hackfleisch einfach fleisch
 * 2 Zehen Knoblauch
 
 ## Material
-* Kleiner Löffel
-* Küchenmesser
 * Kleiner Topf für den Reis
 
 ## Zeitaufwand

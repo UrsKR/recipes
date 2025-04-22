@@ -1,11 +1,7 @@
 ---
-author: Urs
 title: Ochsenbäckchen, Festliche
 layout: post
-type: braten
-meat: rind
-side: kartoffeln
-tags: lecker festlich reichhaltig aufwaendig fleisch
+tags: lecker festlich reichhaltig aufwaendig type-roast meat-beef side-potatoes gaeste
 ---
 ## Zutaten für 8 Portionen
  * 2500g Ochsenbäckchen

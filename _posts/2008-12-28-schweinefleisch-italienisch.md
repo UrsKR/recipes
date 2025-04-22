@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Schweinefleisch Italienisch
-meat: schwein
-side: nudeln
-tags: römertopf auflauf fleisch einfach
+tags: römertopf einfach meat-pork side-noodles type-casserole
 ---
 ## Zutaten für 4 Person
 ### Für das Hauptgericht
@@ -27,7 +25,6 @@ tags: römertopf auflauf fleisch einfach
 
 ## Material
 * Mittelgroßer Römertopf
-* Küchenmesser
 
 ## Zeitaufwand
 105 Minuten

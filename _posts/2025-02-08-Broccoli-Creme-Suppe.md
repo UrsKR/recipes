@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Broccoli-Creme-Suppe
-type: suppe
-tags: schnell
+tags: schnell type-soup
 ---
 ## Zutaten für 3 Person
 * 300 g Broccolli
@@ -14,7 +13,6 @@ tags: schnell
 
 ## Material
 * Thermomix oder großer Topf
-* Küchenmesser  
 
 ## Zeitaufwand
 30 Minuten  

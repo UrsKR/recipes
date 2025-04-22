@@ -1,10 +1,7 @@
 ---
-author: Urs
 title: Kartoffelbrei
 layout: post
-type: beilage
-side: kartoffeln
-tags: vegetarisch
+tags: vegetarisch type-side side-potatoes
 ---
 ## Zutaten für 4 Personen
  * 1,5kg Kartoffeln

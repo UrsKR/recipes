@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Münchener Makkaroni
-origin: deutschland
-meat: schwein
-side: nudeln
-type: eintopf
-tags: hackfleisch schnell
+tags: hackfleisch schnell meat-pork side-noodles type-onepot origin-germany
 ---
 ## Zutaten für 4 Person
 * 400 g Gehacktes  
@@ -20,7 +16,6 @@ tags: hackfleisch schnell
 ## Material
 * Großer Topf für den Eintopf  
 * Mittelgroßer Topf für die Nudeln  
-* Küchenmesser  
 
 ## Zeitaufwand
 20 Minuten  

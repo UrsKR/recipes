@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Kotelett mit Erbsen und Kartoffeln
-meat: schwein
-side: kartoffeln
-origin: deutschland
-tags: einfach
+tags: einfach type-dish side-potatoes origin-germany
 ---
 ## Zutaten für 1 Person
 * 1-2 Schweinekoteletts
@@ -18,7 +15,6 @@ tags: einfach
 * Pfanne für die Kotelett
 * Kleiner Topf für die Kartoffeln
 * Kleiner Topf für die Erbsen
-* Küchenmesser
 
 ## Zeitaufwand
 40 Minuten

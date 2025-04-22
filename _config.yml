@@ -5,23 +5,6 @@ title: Meine Rezepte
 description: "Stuff I like to cook."
 repository: "urskr/recipes"
 
-collections:
-  labels:
-    output: true
-    permalink: /tags/:path/
-  types:
-    output: true
-    permalink: /types/:path/
-  sides:
-    output: true
-    permalink: /sides/:path/
-  meats:
-    output: true
-    permalink: /meats/:path/
-  origins:
-    output: true
-    permalink: /origins/:path/
-
 include: ["_pages"]
 
 site-locale: de-DE
@@ -45,3 +28,6 @@ defaults:
       tagline: "" #else posts show their first line as tagline
       #header:
         #overlay_image: /assets/images/image.png
+
+exclude:
+   - alte_rezepte/

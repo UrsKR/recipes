@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Vichy-Möhren
-type: beilage
-origin: frankreich
-tags: vegetarisch einfach
+tags: vegetarisch einfach type-side origin-france
 ---
 ## Zutaten für 4 Personen
 * 750 g junge Möhren 

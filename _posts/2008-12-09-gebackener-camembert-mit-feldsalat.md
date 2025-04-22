@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gebackener Camembert mit Feldsalat
-tags: vegetarisch schnell einfach tiefkuehl
+tags: vegetarisch schnell einfach instant type-snack
 ---
 ## Zutaten für 1 Person
 
@@ -15,7 +15,7 @@ tags: vegetarisch schnell einfach tiefkuehl
 
 ## Material
 * Kleine Schüssel für den Salat
-* Küchenmesser
+* Ofen
 
 ## Zeitaufwand
  20 Minuten

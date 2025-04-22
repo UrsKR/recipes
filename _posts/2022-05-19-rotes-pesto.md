@@ -2,10 +2,7 @@
 author: Urs
 title: Pesto, Rot
 layout: post
-type: beilage
-side: nudeln
-origin: italien
-tags: scharf vegetarisch knoblauch
+tags: scharf vegetarisch knoblauch type-side side-noodles origin-italy
 ---
 ## Zutaten für einen großen Topf
  * 3-4 kleine Chili
@@ -17,7 +14,6 @@ tags: scharf vegetarisch knoblauch
  * Olivenöl
 
 ## Material
- * Messer
  * Häcksler oder Thermomix
  * Verschließbares Glas zur Aufbewahrung
 

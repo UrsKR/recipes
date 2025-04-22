@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Kartoffelgratin
-type: auflauf
-side: kartoffel
-tags: reichhaltig vegetarisch knoblauch schwein variabel einfach
-origin: frankreich
+tags: reichhaltig vegetarisch knoblauch variabel einfach meat-pork side-potatoes type-casserole origin-france
 ---
 
 ## Zutaten für 4 Portionen 
@@ -20,8 +17,6 @@ origin: frankreich
   
 ## Material
 * Auflaufform  
-* Messer  
-* Brett  
 * Reibe  
   
 ## Zubereitung  

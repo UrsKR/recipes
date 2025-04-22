@@ -1,10 +1,7 @@
 ---
-author: Urs
 title: Pizza mit Quark-Öl-Teig
 layout: post
-meat: schwein
-origin: italien
-tags: knoblauch schnell fleisch vegetarisch
+tags: knoblauch schnell variabel vegetarisch meat-pork origin-italy
 ---
 ## Zutaten für 2 Bleche
 ### Für den Teig

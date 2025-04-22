@@ -1,10 +1,7 @@
 ---
-author: Urs
 title: Pellkartoffeln mit Quark
 layout: post
-side: kartoffeln
-origin: deutschland
-tags: vegetarisch einfach
+tags: vegetarisch einfach origin-germany side-potatoes
 ---
 ## Zutaten für 2 Personen + Kind
  * 2kg Kartoffeln
@@ -16,7 +13,6 @@ tags: vegetarisch einfach
 ## Material
  * Topf
  * Schüssel
- * Messer
 
 ## Zeitaufwand
  30 Minuten

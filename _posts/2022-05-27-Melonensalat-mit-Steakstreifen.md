@@ -1,11 +1,7 @@
 ---
-author: Urs
 title: Melonensalat mit Steakstreifen
 layout: post
-type: salat
-meat: rind
-side: brot
-tags: sommer party grillen
+tags: sommer party grillen type-salad meat-beef side-bread
 ---
 ## Zutaten für 3-4 Personen
  * 1 Wassermelone (bzw. 1/2 große)
@@ -20,7 +16,6 @@ tags: sommer party grillen
 ## Material
  * 2 Schüsseln
  * Brotkorb
- * Messer
  * Pfanne
 
 ## Zeitaufwand

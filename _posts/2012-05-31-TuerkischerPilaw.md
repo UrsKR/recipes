@@ -1,12 +1,7 @@
 ---
-author: Urs
 title: Türkischer Pilaw mit Huhn
 layout: post
-type: pfanne
-meat: huhn
-side: reis
-origin: tuerkei
-tags: gefluegel arabisch
+tags: gefluegel arabisch type-stirfry meat-chicken side-rice origin-turkey
 ---
 ## Zutaten für 2 Personen + Kind
 * 450g Hähnchenbrustfilet
@@ -29,8 +24,6 @@ tags: gefluegel arabisch
 
 ## Material
  * Wok mit Deckel
- * Rührlöffel
- * Messer
  * Topf, um die Tomaten zu häuten
 
 ## Zeitaufwand

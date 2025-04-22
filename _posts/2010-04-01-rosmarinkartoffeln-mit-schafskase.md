@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Rosmarinkartoffeln mit Schafskäse
-type: pfanne
-tags: vegetarisch mediterran
-side: kartoffeln
-origin: griechenland
+tags: vegetarisch mediterran type-stirfry side-potatoes origin-greece
 ---
 ## Zutaten für 4 Portionen
 * 1 kg fest kochende Kartoffeln
@@ -17,9 +14,6 @@ origin: griechenland
 * Salz, Pfeffer
 
 ## Material
-* Sparschäler
-* Messer
-* Brett
 * Beschichtete Pfanne
 
 ## Zeitaufwand

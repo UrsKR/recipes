@@ -1,11 +1,7 @@
 ---
-author: Urs
 title: Lamm "Cassablanca"
 layout: post
-type: braten
-origin: marokko
-meat: lamm
-tags: arabisch fleisch knoblauch suess
+tags: arabisch knoblauch suess type-roast origin-morocco meat-lamb
 ---
 ## Zutaten für 4 Personen
 ### Fleisch
@@ -31,7 +27,6 @@ tags: arabisch fleisch knoblauch suess
 
 ## Material
  * Bräter
- * Fleischmesser
  * Großer Topf
 
 ## Zeitaufwand

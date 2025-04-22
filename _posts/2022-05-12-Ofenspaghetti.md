@@ -1,10 +1,7 @@
 ---
-author: Urs
 title: Ofenspaghetti
 layout: post
-type: auflauf
-side: nudeln
-tags: vegetarisch
+tags: vegetarisch type-noodles
 ---
 ## Zutaten für 2-3 Personen
  * 500g Spaghetti

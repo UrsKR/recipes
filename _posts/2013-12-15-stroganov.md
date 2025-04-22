@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Boeuf Stroganov
-author: Urs
-origin: russland
-meat: rind
-side: reis
-tags: fleisch reichhaltig gaeste
+tags: reichhaltig gaeste type-stirfry meat-beef side-rice origin-russia
 ---
 ## Zutaten für 4 Personen
  * 500 g Rinderfilet  

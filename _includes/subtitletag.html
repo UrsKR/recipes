@@ -1,12 +1,9 @@
-{% assign property = page[include.property] %}
-{% if property %}
+{% assign property = include.property %}
 <span class="site-tag">
-  <a href="{{ site.baseurl }}/{{include.urlpath}}/{{ property | slugify}}/">{{ property | replace:'-', ' ' | capitalize}}</a>
+  {% if include.i18n %}
+    {% assign rendertext = site.data.i18n.elements[include.property] %}
+  {% else %}
+    {% assign rendertext = property | replace:'-', ' ' | capitalize %}
+  {% endif %}
+  <a href="{{ site.baseurl }}/tags#{{ property | slugify}}">{{rendertext}}</a>
 </span>
-{% else %}
-  {% assign nilpath = site.data.nils[include.property] %}
-  {% assign nilname = site.data.i18n.nil[include.property] %}
-  <span class="site-tag">
-    <a href="{{ site.baseurl }}/{{include.urlpath}}/{{nilpath}}/">{{nilname}}</a>
-  </span>
-{% endif %}

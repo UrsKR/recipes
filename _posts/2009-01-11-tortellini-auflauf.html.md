@@ -1,10 +1,7 @@
 ---
-author: Urs
 title: Tortellini-Auflauf
 layout: post
-type: auflauf
-side: nudeln
-tags: vegetarisch instant
+tags: vegetarisch instant type-casserole side-noodles
 ---
 ## Zutaten für 3 Portionen
 * 500g Tortellini (aus der Kühlung)  
@@ -14,8 +11,8 @@ tags: vegetarisch instant
 * Knorr-Fix für Tortellini-Auflauf  
   
 ## Material
-Auflausform  
-Meßbecher
+* Auflaufform  
+* Meßbecher
 
 ## Zeitaufwand
 35 Minuten  

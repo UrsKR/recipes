@@ -1,5 +1,4 @@
 ---
-author: Urs
 title: Ofengemüse
 layout: post
 tags: vegetarisch einfach

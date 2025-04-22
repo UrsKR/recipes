@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Tortellini-Salat
-type: salat
-side: nudeln
-tags: party einfach
+tags: party einfach type-salad side-noodles
 ---
 ## Zutaten für 12 Portionen
 * 500 g getrocknetet Tortellini mit Käsefüllung
@@ -25,8 +23,6 @@ tags: party einfach
 ## Material
 * Großer Topf (für die Tortellini)
 * Durchschlag (für die Tortellini)
-* Löffel zum Umrühren
-* Küchenmesser
 * Schüssel zum Anrühren
 
 ## Zeitaufwand

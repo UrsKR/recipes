@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Überbackene Ofenkartoffeln
-type: auflauf
-side: kartoffeln
-tags: vegetarisch
-origin: peru
+tags: vegetarisch type-casserole side-potatoes origin-peru
 ---
 
 ## Zutaten für 4 Personen
@@ -19,7 +16,6 @@ origin: peru
 ## Material
 * Auflaufform  
 * Messbecher  
-* Gemüsemesser  
 
 ## Zeitaufwand
 ca. 1 1/4 Std.  

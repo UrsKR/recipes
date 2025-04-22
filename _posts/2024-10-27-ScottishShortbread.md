@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Scottish Shortbread
-type: kuchen
-origin: schottland
-tags: suess vegetarisch
+tags: suess vegetarisch type-cake origin-scotland
 ---
 ## Zutaten für 18 Stück
 * 350g Weizenmehl

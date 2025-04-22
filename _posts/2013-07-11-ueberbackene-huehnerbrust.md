@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Überbackene Hähnchenbrüste
-type: auflauf
-meat: huhn
-side: kartoffeln
-tags: gefluegel
+tags: gefluegel type-casserole meat-chicken side-potatoes
 ---
 ## Zutaten für 4 Personen
 4 Hähnchenbrustfilets (à 150 g)  

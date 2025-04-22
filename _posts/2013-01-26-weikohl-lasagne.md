@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Weißkohl-Lasagne
-tags: vegetarisch herbst
-side: nudeln
-type: auflauf
+tags: vegetarisch herbst type-noodles
 ---
 
 ## Zutaten für 4 Personen
@@ -21,7 +19,6 @@ type: auflauf
 
 ## Material
 * Topf  
-* Gemüsemesser  
 * Auflaufform  
 
 ## Zeitaufwand

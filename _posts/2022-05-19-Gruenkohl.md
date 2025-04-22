@@ -1,11 +1,7 @@
 ---
-author: Urs
 title: Grünkohl
 layout: post
-meat: schwein
-side: kartoffeln
-origin: deutschland
-tags: herbst herzhaft reichhaltig
+tags: herbst obst herzhaft reichhaltig meat-pork side-potatoes origin-germany type-onepot
 ---
 ## Zutaten für 2 Personen / 6 Teller voll
  * 1kg Grünkohl
@@ -18,7 +14,6 @@ tags: herbst herzhaft reichhaltig
  * Kartoffeln
 
 ## Material
- * Messer
  * Sehr großer Topf
 
 ## Zeitaufwand

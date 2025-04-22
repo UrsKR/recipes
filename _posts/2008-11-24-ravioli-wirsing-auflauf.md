@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Ravioli-Wirsing-Auflauf
-tags: billig vegetarisch einfach
-type: auflauf
-side: nudeln
+tags: billig vegetarisch einfach type-casserole side-noodles
 ---
 
 ## Zutaten für 4-6 Personen
@@ -21,7 +19,6 @@ side: nudeln
 * Großer Topf zum Blanchieren
 * Kleiner Topf für Ravioli
 * Kleiner Topf für Sahne
-* Großes Messer
 
 ## Zeitaufwand
 45 Minuten inklusive Backen

@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Bunter Wok
-type: wok
-meat: schwein
-side: reis
-tags: experimentell variabel schnell einfach
+tags: experimentell variabel schnell einfach type-wok meat-pork side-rice
 ---
 ## Zutaten für 4 Portionen
 * 1 EL Öl  

@@ -1,15 +1,42 @@
-nil:
-  meat: ohne Fleisch
-  side: ohne Beilage
-  type: Gericht
-  origin: unbekannter Herkunft
-
-types:
-  nil: Gerichte
-  auflauf: Aufläufe
-  beilage: Beilagen
-  braten: Braten
-  eintopf: Eintöpfe
-  kuchen: Kuchen
-  pfanne: Pfannen
-  wok: Woks
+elements:
+  type-cake: Kuchen
+  type-casserole: Auflauf
+  type-dessert: Dessert
+  type-dish: Gericht
+  type-noodles: Nudelgericht
+  type-onepot: Eintopf
+  type-risotto: Risotto
+  type-salad: Salat
+  type-side: Beilage
+  type-snack: Snack
+  type-soup: Suppe
+  type-stirfry: Pfannengericht
+  type-wok: Wok
+  meat-none: ohne Fleisch
+  meat-beef: Rind
+  meat-chicken: Huhn
+  meat-lamb: Lamm
+  meat-pork: Schwein
+  meat-salmon: Lachs
+  meat-turkey: Pute
+  side-bread: Brot
+  side-bulgur: Bulgur
+  side-couscous: Couscous
+  side-noodles: Nudeln
+  side-potatoes: Kartoffeln
+  side-rice: Reis
+  origin-china: China
+  origin-england: England
+  origin-france: Frankreich
+  origin-germany: Deutschland
+  origin-greece: Griechenland
+  origin-indonesia: Indonesian
+  origin-israel: Israel
+  origin-italy: Italien
+  origin-japan: Japan
+  origin-korea: Korea
+  origin-morocco: Marokko
+  origin-peru: Peru
+  origin-russia: Russland
+  origin-scotland: Schottland
+  origin-turkey: der Türkei

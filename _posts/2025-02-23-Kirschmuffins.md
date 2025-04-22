@@ -1,9 +1,7 @@
 ---
-author: Urs
 title: Kirschcrumble-Muffins
 layout: post
-type: kuchen
-tags: vegetarisch lecker suess
+tags: vegetarisch lecker suess type-cake
 ---
 ## Zutaten für 12 Muffins
 ### Für das Kompott

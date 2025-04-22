@@ -2,8 +2,7 @@
 author: Urs
 title: Milchreis
 layout: post
-type: eintopf
-tags: vegetarisch
+tags: vegetarisch suess type-dessert
 ---
 ## Zutaten für 3 Personen
  * 250g Milchreis

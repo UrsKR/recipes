@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Malvern Pudding
-type: pudding
-origin: england
-tags: reichhaltig aufwaendig dessert herbst winter obst
+tags: reichhaltig aufwaendig herbst winter obst origin-england type-dessert
 ---
 ## Zutaten für 4 Personen
 ### Grundlage

@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Altdeutscher Wirsingeintopf
-meat: schwein
-side: kartoffeln
-type: eintopf
-origin: deutschland
-tags: herbst winter einfach
+tags: herbst winter einfach type-onepot origin-germany side-potatoes meat-pork
 ---
 ## Zutaten für 6 Personen
 * 1 kg Wirsing  

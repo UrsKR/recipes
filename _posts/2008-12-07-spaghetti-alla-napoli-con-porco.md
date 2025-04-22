@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Spaghettini alla Napoli con Porco
-meat: schwein
-side: nudeln
-origin: italien
-tags: knoblauch variabel fleisch einfach
+tags: knoblauch variabel einfach type-noodles meat-pork origin-italy
 ---
 ## Zutaten für 2 Personen
 * 2 Schweinekoteletts
@@ -25,8 +22,6 @@ tags: knoblauch variabel fleisch einfach
 * Pfanne für die Koteletts
 * Kleiner Topf für die Sauce
 * Großer Topf für die Nudeln  
-* Schüssel für die Tomaten  
-* Küchenmesser  
 * Reibe für den Käse
 
 ## Zeitaufwand

@@ -1,11 +1,7 @@
 ---
-author: Urs
 title: Lamm mit gesüßter Tomatensoße und Mandeln
 layout: post
-type: eintopf
-meat: lamm
-side: couscous
-tags: gaeste suess tajine knoblauch
+tags: gaeste suess tajine knoblauch type-onepot meat-lamb side-couscous
 ---
 ## Zutaten für 4-6 Personen
 * 1,5 kg Lamm (Schulter oder Rücken)

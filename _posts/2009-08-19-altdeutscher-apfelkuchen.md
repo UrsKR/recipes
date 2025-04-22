@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Altdeutscher Apfelkuchen
-type: kuchen
-origin: deutschland
-tags: suess obst einfach
+tags: suess obst einfach type-cake origin-germany
 ---
 ## Zutaten für 16 Stück
 ### Für den Teig
@@ -24,8 +22,6 @@ tags: suess obst einfach
 * 1 EL Zucker
 
 ## Material
-* Schälmesser
-* Küchenmesser
 * Schüssel für den Teig
 * Backblech
 

@@ -1,5 +1,4 @@
 ---
-author: Urs
 title: Seifenblasenlauge
 layout: post
 ---

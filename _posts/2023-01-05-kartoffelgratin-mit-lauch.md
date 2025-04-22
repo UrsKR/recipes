@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Kartoffelgratin mit Lauch
-type: auflauf
-side: kartoffel
-tags: reichhaltig vegetarisch knoblauch schwein variabel einfach
-origin: frankreich
+tags: reichhaltig vegetarisch knoblauch meat-pork variabel einfach type-casserole side-potatoes origin-france
 ---
 
 ## Zutaten für 4 Portionen 

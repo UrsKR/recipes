@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Spaghetti mit vegetarischer Bolognese
-side: nudeln
-tags: billig knoblauch vegetarisch schnell instant
+tags: billig knoblauch vegetarisch schnell instant type-noodles
 ---
 ## Zutaten für 2 Personen
 * 400g Spaghetti
@@ -15,7 +14,6 @@ tags: billig knoblauch vegetarisch schnell instant
 ## Material
 * Großer Topf für die Nudeln
 * Kleiner Topf für die Soße
-* Küchenmesser
 
 ## Zeitaufwand
  15 Minuten

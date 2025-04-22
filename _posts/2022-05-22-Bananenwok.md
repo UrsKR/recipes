@@ -1,12 +1,8 @@
 ---
-author: Urs
 title: Bananenwok
 layout: post
-type: wok
-meat: pute
-side: reis
 origin: indonesien
-tags: fleisch obst suess sauer
+tags: obst suess sauer type-wok meat-turkey side-rice origin-indonesia
 ---
 ## Zutaten für 4 Personen
  * 375g Pute
@@ -28,7 +24,6 @@ tags: fleisch obst suess sauer
 
 ## Material
  * Wok
- * Messer
 
 ## Zeitaufwand
  60 Minuten

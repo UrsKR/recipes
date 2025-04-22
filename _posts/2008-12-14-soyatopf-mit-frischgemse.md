@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Soyatopf mit Frischgemüse
-side: reis
-type: wok
-tags: experimentell tofu knoblauch vegetarisch
+tags: experimentell tofu knoblauch vegetarisch side-rice type-wok
 ---
 ## Zutaten für 2 Person
 *  340 g Tofu
@@ -20,10 +18,7 @@ tags: experimentell tofu knoblauch vegetarisch
 * Currypulver
 
 ## Material
-* Kleiner Löffel
-* Holzlöffel zum Umrühren
 * Wok
-* Küchenmesser
 * Reiskocher
 
 ## Zeitaufwand

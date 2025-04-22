@@ -1,11 +1,7 @@
 ---
-author: Urs
 title: Gefüllte Paprikaschoten
 layout: post
-meat: gemischtes-fleisch
-side: reis
-tags: lecker einfach
-origin: ungarn
+tags: lecker einfach type-dish meat-mixed side-rice origin-hungary
 ---
 ## Zutaten für 3 Portionen
  * 5 Paprikaschoten
@@ -20,7 +16,6 @@ origin: ungarn
  * Dazu Wildreis
 
 ## Material
- * Küchenmesser
  * Großer Topf
  
 ## Zeitaufwand

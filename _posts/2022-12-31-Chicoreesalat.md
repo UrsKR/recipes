@@ -1,9 +1,7 @@
 ---
-author: Urs
 title: Chicoreesalat
 layout: post
-type: salat
-tags: lecker einfach obst vegetarisch party
+tags: lecker einfach obst vegetarisch party type-salad
 ---
 ## Zutaten für 4 Portionen
  * 2 Chicoree
@@ -16,7 +14,6 @@ tags: lecker einfach obst vegetarisch party
  * Pfeffer
 
 ## Material
- * Küchenmesser
  * Schüssel
  
 ## Zeitaufwand

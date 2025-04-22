@@ -1,11 +1,7 @@
 ---
-author: Urs
 title: Wintergemüse
 layout: post
-type: pfanne
-side: reis
-origin: deutschland
-tags: winter vegetarisch
+tags: winter vegetarisch type-stirfry side-rice origin-germany
 ---
 ## Zutaten für 2 Personen
  * 1 große Dose geschälte Tomaten
@@ -16,7 +12,6 @@ tags: winter vegetarisch
 
 ## Material
  * Große Pfanne
- * Messer
 
 ## Zeitaufwand
  30 min

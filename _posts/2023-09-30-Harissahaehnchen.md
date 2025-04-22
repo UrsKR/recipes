@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Harissa-Hähnchen mit Bulgur
-type: braten
-side: bulgur
-meat: huhn
-tags: fleisch aufwaendig arabisch gaeste gefluegel knoblauch
+tags: aufwaendig arabisch gaeste gefluegel knoblauch type-roast side-bulgur meat-chicken
 ---
 
 ## Zutaten für 4 Portionen 
@@ -37,7 +34,6 @@ tags: fleisch aufwaendig arabisch gaeste gefluegel knoblauch
 
 ## Material
 * Backofen  
-* Messer  
 * Pfanne    
 * Bräter
 * 2 Töpfe

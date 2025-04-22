@@ -1,13 +1,5 @@
 main:
   - title: "By tag"
     url: /tags/
-  - title: "By type"
-    url: /types/
-  - title: "By side"
-    url: /sides/
-  - title: "By meat"
-    url: /meats/
-  - title: "By origin"
-    url: /origins/
   - title: "By year"
     url: /archive/

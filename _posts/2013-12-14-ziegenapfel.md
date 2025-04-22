@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Ziegenapfel
-author: Urs
 origin: frankreich
-tags: suess obst gaeste vegetarisch
+tags: suess obst gaeste vegetarisch origin-france type-salad
 ---
 ## Zutaten für 2 Person
 
