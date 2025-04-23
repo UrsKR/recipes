@@ -2,7 +2,8 @@
 author: Urs
 title: Pfannkuchen
 layout: post
-tags: süß lecker vegetarisch type-dessert
+last_modified_at: 2025-04-23
+tags: suess lecker vegetarisch type-dessert
 ---
 ## Zutaten für 10 Pfannkuchen
 ### Für den Teig

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Linseneintopf
-tags: billig eintopf einfach meat-pork
+last_modified_at: 2025-04-23
+tags: billig type-onepot einfach meat-pork
 ---
 ## Zutaten für 4 Person
 * 400 g braune Linsen

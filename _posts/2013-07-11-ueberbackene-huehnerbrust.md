@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Überbackene Hähnchenbrüste
-tags: gefluegel type-casserole meat-chicken side-potatoes
+last_modified_at: 2025-04-23
+tags: type-casserole meat-chicken side-potatoes
 ---
 ## Zutaten für 4 Personen
 4 Hähnchenbrustfilets (à 150 g)  

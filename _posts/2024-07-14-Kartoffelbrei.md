@@ -1,6 +1,7 @@
 ---
 title: Kartoffelbrei
 layout: post
+last_modified_at: 2025-04-23
 tags: vegetarisch type-side side-potatoes
 ---
 ## Zutaten für 4 Personen
@@ -13,7 +14,6 @@ tags: vegetarisch type-side side-potatoes
  
 ## Material
  * Schäler
- * Küchenmesser
  * Kartoffelstampfer
  * Großer Topf
 
@@ -31,3 +31,4 @@ tags: vegetarisch type-side side-potatoes
  
 ## Notizen
  * Gut zu Spinat und Würstchen
+ * Dazu: 250g Zwiebeln schälen, in Ringe schneiden und bei mittlerer Hitze anbraten. (+20 Minuten Aufwand)

@@ -35,3 +35,6 @@ plugins:
 
 exclude:
    - alte_rezepte/
+
+paginate: 10
+paginate_path: /page:num/

@@ -1,7 +1,8 @@
 ---
 title: Türkischer Pilaw mit Huhn
 layout: post
-tags: gefluegel arabisch type-stirfry meat-chicken side-rice origin-turkey
+last_modified_at: 2025-04-23
+tags: arabisch type-stirfry meat-chicken side-rice origin-turkey
 ---
 ## Zutaten für 2 Personen + Kind
 * 450g Hähnchenbrustfilet

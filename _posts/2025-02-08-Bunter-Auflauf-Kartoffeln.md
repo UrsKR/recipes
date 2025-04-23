@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Bunter Gemüseauflauf mit Kartoffeln 
-tags: einfach knoblauch type-casserole origin-germany
+title: Bunter Gemüseauflauf mit Kartoffeln
+last_modified_at: 2025-04-23 
+tags: einfach knoblauch vegetarisch type-casserole origin-germany
 ---
 ## Zutaten für 4 Person
 * 800 g Kartoffeln festkochend
