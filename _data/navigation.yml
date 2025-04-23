@@ -1,5 +1,7 @@
 main:
   - title: "By tag"
     url: /tags/
+  - title: "Alphabetical"
+    url: /alphabetical/  
   - title: "By year"
     url: /archive/
