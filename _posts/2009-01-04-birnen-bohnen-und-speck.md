@@ -1,6 +1,7 @@
 ---
 title: Birnen, Bohnen und Speck
-tags: einfach herbst meat-pork side-potatoes origin-germany type-onepot
+tags: einfach herbst meat-pork side-potatoes origin-germany type-onepot obst
+last_modified_at: 2025-04-23
 ---
 ## Zutaten für 3 Portionen
 * 400 g durchwachsener Speck

@@ -7,6 +7,7 @@ elements:
   type-onepot: Eintopf
   type-risotto: Risotto
   type-salad: Salat
+  type-sauce: Sauce
   type-side: Beilage
   type-snack: Snack
   type-soup: Suppe
@@ -26,6 +27,7 @@ elements:
   side-noodles: Nudeln
   side-potatoes: Kartoffeln
   side-rice: Reis
+  origin-austrie: Österreich
   origin-china: China
   origin-england: England
   origin-france: Frankreich
