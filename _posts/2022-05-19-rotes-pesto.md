@@ -1,7 +1,8 @@
 ---
 author: Urs
 title: Pesto, Rot
-tags: scharf vegetarisch knoblauch type-side side-noodles origin-italy lecker
+tags: scharf vegetarisch knoblauch type-sauce side-noodles origin-italy lecker
+last_modified_at: 2025-04-23
 ---
 ## Zutaten für einen großen Topf
  * 3-4 kleine Chili
