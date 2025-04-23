@@ -1,6 +1,6 @@
 ---
 title: Süße Energy-Ostereier
-tags: unerprobt suess type-dessert vegan
+tags: unerprobt suess type-dessert vegan einfach
 ---
 ## Zutaten 
 ### Für die Eier
