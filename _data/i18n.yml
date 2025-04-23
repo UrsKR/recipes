@@ -11,6 +11,7 @@ elements:
   type-snack: Snack
   type-soup: Suppe
   type-stirfry: Pfannengericht
+  type-tajine: Tajine
   type-wok: Wok
   meat-none: ohne Fleisch
   meat-beef: Rind

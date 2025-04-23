@@ -17,8 +17,7 @@ layout: single
   {% endif %}
 {% endfor %}
 
-<p><span>Ein</span>
-  {% include subtitletag.html property=type i18n=true%}
+<p>{% include subtitletag.html property=type i18n=true%}
   {% if meat %}
     <span>mit</span>
     {% include subtitletag.html property=meat i18n=true%}
@@ -37,8 +36,6 @@ layout: single
     <span>aus</span>
     {% include subtitletag.html property=origin i18n=true%}
   {% endif %}
-  <span>.</span>
-  <br/>
   <span>(</span>
   {% for tag in page.tags %}
     {% if tag contains 'type' %}
