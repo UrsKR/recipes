@@ -14,6 +14,7 @@ elements:
   type-stirfry: Pfannengericht
   type-tajine: Tajine
   type-wok: Wok
+
   meat-none: ohne Fleisch
   meat-beef: Rind
   meat-chicken: Huhn
@@ -21,12 +22,14 @@ elements:
   meat-pork: Schwein
   meat-salmon: Lachs
   meat-turkey: Pute
+
   side-bread: Brot
   side-bulgur: Bulgur
   side-couscous: Couscous
   side-noodles: Nudeln
   side-potatoes: Kartoffeln
   side-rice: Reis
+  
   origin-austrie: Österreich
   origin-china: China
   origin-england: England
