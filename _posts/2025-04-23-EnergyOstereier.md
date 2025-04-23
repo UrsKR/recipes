@@ -22,7 +22,7 @@ tags: unerprobt suess type-dessert vegan einfach
 * Topf für die Schokolade
 
 ## Nährwert pro Portion (bei 25 Stück)
-115 kcal, 3g Eiweiß, 8g Fett, 9g Kolehydrate
+115 kcal, 3g Eiweiß, 8g Fett, 9g Kohlenhydrate
 
 ## Dauer
 * 5 Minuten Vorbereitung
