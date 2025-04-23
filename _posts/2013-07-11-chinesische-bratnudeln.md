@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Chinesische Bratnudeln
 tags: asiatisch type-wok meat-pork side-noodles origin-china
 ---

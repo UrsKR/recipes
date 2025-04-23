@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Münchener Makkaroni
 tags: hackfleisch schnell meat-pork side-noodles type-onepot origin-germany
 ---

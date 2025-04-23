@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Überbackene Ofenkartoffeln
 tags: vegetarisch type-casserole side-potatoes origin-peru
 ---

@@ -1,6 +1,5 @@
 ---
 title: Salat von geröstetem Blumenkohl mit Haselnüssen
-layout: post
 tags: vegetarisch type-salad origin-israel
 ---
 ## Zutaten für 2-4 Personen

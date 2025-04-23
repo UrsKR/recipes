@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ziegenapfel
 origin: frankreich
 tags: suess obst gaeste vegetarisch origin-france type-salad

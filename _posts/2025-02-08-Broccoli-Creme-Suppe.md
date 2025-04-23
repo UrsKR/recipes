@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Broccoli-Creme-Suppe
 tags: schnell type-soup
 ---

@@ -1,7 +1,5 @@
 ---
-author: Urs
 title: Milchreis
-layout: post
 tags: vegetarisch suess type-dessert
 ---
 ## Zutaten für 3 Personen

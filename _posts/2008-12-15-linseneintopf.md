@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linseneintopf
 last_modified_at: 2025-04-23
 tags: billig type-onepot einfach meat-pork

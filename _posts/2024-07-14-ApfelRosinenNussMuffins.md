@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Apfel-Rosinen-Nuss-Muffins
 tags: suess vegetarisch winter type-cake
 ---

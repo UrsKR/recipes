@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Harissa-Hähnchen mit Bulgur
 last_modified_at: 2025-04-23
 tags: aufwaendig arabisch gaeste knoblauch type-roast side-bulgur meat-chicken

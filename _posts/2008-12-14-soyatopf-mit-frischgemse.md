@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Soyatopf mit Frischgemüse
 tags: experimentell tofu knoblauch vegetarisch side-rice type-wok
 ---

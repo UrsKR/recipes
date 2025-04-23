@@ -1,6 +1,5 @@
 ---
 title: Kartoffelbrei
-layout: post
 last_modified_at: 2025-04-23
 tags: vegetarisch type-side side-potatoes
 ---

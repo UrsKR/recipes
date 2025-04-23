@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Spaghettini alla Napoli con Porco
 tags: knoblauch variabel einfach type-noodles meat-pork origin-italy
 ---

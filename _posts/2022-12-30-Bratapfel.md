@@ -1,7 +1,6 @@
 ---
 author: Urs
 title: Bratapfel
-layout: post
 tags: lecker einfach vegetarisch type-dessert origin-germany
 ---
 ## Zutaten für 2 Portionen

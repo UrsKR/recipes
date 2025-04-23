@@ -1,6 +1,5 @@
 ---
 title: Lamm "Cassablanca"
-layout: post
 tags: arabisch knoblauch suess type-roast origin-morocco meat-lamb
 ---
 ## Zutaten für 4 Personen

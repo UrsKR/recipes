@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Boeuf Stroganov
 tags: reichhaltig gaeste type-stirfry meat-beef side-rice origin-russia
 ---

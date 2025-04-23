@@ -1,6 +1,5 @@
 ---
 title: Seifenblasenlauge
-layout: post
 ---
 ## Zutaten für 1 Füllung
  * 125 destilliertes Wasser / Trocknerkondenswasser

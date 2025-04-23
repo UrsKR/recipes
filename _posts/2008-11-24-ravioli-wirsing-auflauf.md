@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ravioli-Wirsing-Auflauf
 tags: billig vegetarisch einfach type-casserole side-noodles
 ---

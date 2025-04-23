@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Malvern Pudding
 tags: reichhaltig aufwaendig herbst winter obst origin-england type-dessert
 ---

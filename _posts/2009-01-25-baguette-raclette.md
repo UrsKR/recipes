@@ -1,5 +1,4 @@
 --- 
-layout: post 
 title: Baguette 'Raclette' 
 last_modified_at: 2025-04-23
 tags: vegetarisch gaeste schnell einfach type-snack

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Weißkohl-Lasagne
 tags: vegetarisch herbst type-noodles
 ---

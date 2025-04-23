@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kotelett mit Erbsen und Kartoffeln
 tags: einfach type-dish side-potatoes origin-germany
 ---

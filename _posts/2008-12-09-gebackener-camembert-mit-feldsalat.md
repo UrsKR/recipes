@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gebackener Camembert mit Feldsalat
 tags: vegetarisch schnell einfach instant type-snack
 ---

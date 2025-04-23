@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Schweinefleisch Italienisch
 tags: römertopf einfach meat-pork side-noodles type-casserole
 ---

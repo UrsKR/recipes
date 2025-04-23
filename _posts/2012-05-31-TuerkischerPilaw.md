@@ -1,6 +1,5 @@
 ---
 title: Türkischer Pilaw mit Huhn
-layout: post
 last_modified_at: 2025-04-23
 tags: arabisch type-stirfry meat-chicken side-rice origin-turkey
 ---

@@ -1,6 +1,5 @@
 ---
 title: Gefüllte Paprikaschoten
-layout: post
 tags: lecker einfach type-dish meat-mixed side-rice origin-hungary
 ---
 ## Zutaten für 3 Portionen

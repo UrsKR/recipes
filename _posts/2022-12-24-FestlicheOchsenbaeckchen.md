@@ -1,6 +1,5 @@
 ---
 title: Ochsenbäckchen, Festliche
-layout: post
 last_modified_at: 2025-04-23
 tags: lecker reichhaltig aufwaendig type-roast meat-beef side-potatoes gaeste
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Schnitzel mit Blumenkohl und Kartoffeln
 tags: meat-pork side-potatoes origin-germany
 ---

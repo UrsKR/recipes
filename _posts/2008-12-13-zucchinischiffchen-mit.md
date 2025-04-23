@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Zucchinischiffchen mit Hackfleischfüllung
 tags: hackfleisch einfach meat-pork side-rice
 ---

@@ -1,7 +1,6 @@
 ---
 title: Weihnachtlicher Kartoffelsalat
-layout: post
-tags: vegetarisch obst type-salad side-potatoes origin-germany
+tags: vegetarisch type-salad side-potatoes origin-germany gaeste winter
 ---
 ## Zutaten für 2 Personen
  * 10 Kartoffeln

@@ -1,6 +1,5 @@
 ---
 title: Bananenwok
-layout: post
 origin: indonesien
 tags: obst suess sauer type-wok meat-turkey side-rice origin-indonesia
 ---

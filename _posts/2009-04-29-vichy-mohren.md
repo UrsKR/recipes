@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vichy-Möhren
 tags: vegetarisch einfach type-side origin-france
 ---

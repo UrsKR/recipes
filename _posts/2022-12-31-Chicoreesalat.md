@@ -1,6 +1,5 @@
 ---
 title: Chicoreesalat
-layout: post
 tags: lecker einfach obst vegetarisch party type-salad
 ---
 ## Zutaten für 4 Portionen

@@ -1,7 +1,6 @@
 ---
 author: Urs
 title: Pfannkuchen
-layout: post
 last_modified_at: 2025-04-23
 tags: suess lecker vegetarisch type-dessert
 ---

@@ -1,7 +1,6 @@
 ---
 title: Reis mit Tomaten und Knoblauch
-layout: post
-tags: vegetarisch knoblauch type-side side-rice origin-israel
+tags: vegetarisch knoblauch type-side side-rice origin-israel lecker
 ---
 ## Zutaten für 4 Personen als Hauptgericht / 6 als Beilage
  * 800g Kirschtomaten

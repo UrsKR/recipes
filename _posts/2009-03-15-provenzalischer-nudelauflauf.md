@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Provenzalischer Nudelauflauf
 tags: hackfleisch mediterran type-casserole meat-beef side-noodles origin-france
 ---

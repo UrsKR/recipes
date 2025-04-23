@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bunter Gemüseauflauf mit Kartoffeln
 last_modified_at: 2025-04-23 
 tags: einfach knoblauch vegetarisch type-casserole origin-germany

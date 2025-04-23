@@ -1,6 +1,5 @@
 ---
 title: One-Pot-Gnocchi mit Tomaten
-layout: post
 tags: vegetarisch type-casserole
 ---
 ## Zutaten für 4 Personen

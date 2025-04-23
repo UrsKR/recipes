@@ -1,6 +1,5 @@
 ---
 title: Baumstämme
-layout: post
 tags: vegetarisch fragment type-cake
 ---
 ## Zutaten für einen Kuchen

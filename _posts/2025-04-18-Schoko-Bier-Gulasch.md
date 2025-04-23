@@ -1,6 +1,5 @@
 ---
 title: Schoko-Bier-Gulasch
-layout: post
 last_modified_at: 2025-04-23
 tags: gaeste lecker aufwaendig scharf type-onepot side-potatoes meat-beef
 ---

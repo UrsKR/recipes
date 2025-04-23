@@ -1,6 +1,5 @@
 ---
 title: Ofengemüse
-layout: post
 tags: vegetarisch einfach
 ---
 ## Zutaten für 2 Personen + Kind

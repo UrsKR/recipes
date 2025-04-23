@@ -1,6 +1,5 @@
 ---
 title: Pizza mit Quark-Öl-Teig
-layout: post
 tags: knoblauch schnell variabel vegetarisch meat-pork origin-italy
 ---
 ## Zutaten für 2 Bleche

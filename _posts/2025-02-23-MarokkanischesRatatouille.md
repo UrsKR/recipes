@@ -1,6 +1,5 @@
 ---
 title: Marokkanisches Ratatouille mit Auberginen, Zucchini, Datteln und fruchtigen Aprikosen
-layout: post
 tags: vegetarisch gaeste lecker suess tajine knoblauch origin-morocco side-couscous type-onepot
 ---
 ## Zutaten für 4 Personen

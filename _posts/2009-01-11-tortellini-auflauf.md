@@ -1,6 +1,5 @@
 ---
 title: Tortellini-Auflauf
-layout: post
 tags: vegetarisch instant type-casserole side-noodles
 ---
 ## Zutaten für 3 Portionen

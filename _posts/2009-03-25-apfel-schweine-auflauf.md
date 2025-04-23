@@ -1,5 +1,4 @@
 --- 
-layout: post 
 title: Apfelschwein 
 last_modified_at: 2025-04-22
 tags: suess paleo-lakto einfach type-casserole meat-pork side-rice

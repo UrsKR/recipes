@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tortellini-Salat
 tags: party einfach type-salad side-noodles
 ---

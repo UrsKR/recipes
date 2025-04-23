@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Apple Crumble
 tags: reichhaltig suess vegetarisch obst winter type-cake origin-england
 ---

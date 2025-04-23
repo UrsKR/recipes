@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Birnen, Bohnen und Speck
 tags: einfach herbst meat-pork side-potatoes origin-germany type-onepot
 ---

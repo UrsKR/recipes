@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Spaghetti mit vegetarischer Bolognese
 tags: billig knoblauch vegetarisch schnell instant type-noodles
 ---

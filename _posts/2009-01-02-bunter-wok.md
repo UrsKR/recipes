@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bunter Wok
 tags: experimentell variabel schnell einfach type-wok meat-pork side-rice
 ---

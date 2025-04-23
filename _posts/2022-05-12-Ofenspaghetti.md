@@ -1,6 +1,5 @@
 ---
 title: Ofenspaghetti
-layout: post
 tags: vegetarisch type-noodles
 ---
 ## Zutaten für 2-3 Personen

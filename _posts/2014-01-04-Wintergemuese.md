@@ -1,6 +1,5 @@
 ---
 title: Wintergemüse
-layout: post
 tags: winter vegetarisch type-stirfry side-rice origin-germany
 ---
 ## Zutaten für 2 Personen

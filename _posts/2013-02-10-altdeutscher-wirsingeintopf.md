@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Altdeutscher Wirsingeintopf
 tags: herbst winter einfach type-onepot origin-germany side-potatoes meat-pork
 ---

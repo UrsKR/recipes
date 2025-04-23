@@ -1,6 +1,5 @@
 ---
 title: Melonensalat mit Steakstreifen
-layout: post
 tags: sommer party grillen type-salad meat-beef side-bread
 ---
 ## Zutaten für 3-4 Personen

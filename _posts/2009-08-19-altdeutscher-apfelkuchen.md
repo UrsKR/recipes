@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Altdeutscher Apfelkuchen
 tags: suess obst einfach type-cake origin-germany
 ---

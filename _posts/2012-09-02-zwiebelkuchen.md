@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Zwiebelkuchen
 tags: party herzhaft type-cake meat-pork origin-germany
 ---

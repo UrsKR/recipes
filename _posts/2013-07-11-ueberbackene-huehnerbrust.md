@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Überbackene Hähnchenbrüste
 last_modified_at: 2025-04-23
 tags: type-casserole meat-chicken side-potatoes

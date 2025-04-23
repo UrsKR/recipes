@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rosmarinkartoffeln mit Schafskäse
 tags: vegetarisch mediterran type-stirfry side-potatoes origin-greece
 ---

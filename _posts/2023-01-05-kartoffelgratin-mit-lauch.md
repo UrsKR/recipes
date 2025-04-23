@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kartoffelgratin mit Lauch
 tags: reichhaltig vegetarisch knoblauch meat-pork variabel einfach type-casserole side-potatoes origin-france
 ---
