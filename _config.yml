@@ -29,5 +29,9 @@ defaults:
       #header:
         #overlay_image: /assets/images/image.png
 
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
 exclude:
    - alte_rezepte/
