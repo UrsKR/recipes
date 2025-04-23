@@ -17,8 +17,9 @@ tags: unerprobt suess type-dessert vegan einfach
 - ca. 30 Mandelblättchen für die Ohren
 
 ## Material
-* Bräter
-* Mörser
+* Kochtopf zum Einweichen
+* Kühlschrank
+* Topf für die Schokolade
 
 ## Nährwert pro Portion (bei 25 Stück)
 115 kcal, 3g Eiweiß, 8g Fett, 9g Kolehydrate
