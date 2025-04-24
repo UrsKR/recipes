@@ -11,9 +11,7 @@ tags: suess vegetarisch type-cake origin-scotland lecker
 ## Material:
 * Backform (Traditionell quadratisch mit 20-25 cm Seitenlänge)
 * Küchenmaschine
-* Mühle für den Zucker
-* Gabel
-* Messer
+* Mühle oder Mixer für den Zucker
 
 ## Zeitaufwand
 10 Minuten Vorbereitung
