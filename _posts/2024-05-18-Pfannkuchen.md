@@ -1,8 +1,8 @@
 ---
 author: Urs
 title: Pfannkuchen
-last_modified_at: 2025-04-23
-tags: suess lecker vegetarisch type-dessert
+last_modified_at: 2025-04-24
+tags: suess lecker variatibel obst vegetarisch type-dessert
 ---
 ## Zutaten für 10 Pfannkuchen
 ### Für den Teig
@@ -30,4 +30,10 @@ tags: suess lecker vegetarisch type-dessert
  * Öl in Pfanne erhitzen, dann leicht zurückdrehen.
  * Jeweils eine Kelle Teig einige Minuten backen, wenden und kurz weiterbacken.
  * Fertige Pfannkuchen beiseitestellen.
- * Mit Obstkompott oder Zimt und Zucker servieren
+ * Mit Süßkram (Obstkompott, Nuss-Nougat, Zimt/Zucker) servieren
+
+## Variation
+* Etwas weniger Mehl (300g) und ein Ei mehr
+* 2 EL Öl in den Teig
+* Apfelstücke direkt in den Teig
+* Ohne Sprudelwasser
