@@ -1,6 +1,6 @@
 ---
 title: Vegane Schokotarte
-tags: type-cake vegan gaeste
+tags: type-cake vegan gaeste geburtstag
 ---
 ## Zutaten
 ### Für den Boden
