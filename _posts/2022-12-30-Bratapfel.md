@@ -1,5 +1,4 @@
 ---
-author: Urs
 title: Bratapfel
 tags: lecker einfach vegetarisch type-dessert origin-germany
 ---

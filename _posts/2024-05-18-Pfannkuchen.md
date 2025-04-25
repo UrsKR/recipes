@@ -1,5 +1,4 @@
 ---
-author: Urs
 title: Pfannkuchen
 last_modified_at: 2025-04-24
 tags: suess lecker variatibel obst vegetarisch type-dessert
