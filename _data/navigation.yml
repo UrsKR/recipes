@@ -1,7 +1,7 @@
 main:
-  - title: "By tag"
+  - title: "Schlagworte"
     url: /tags/
-  - title: "Alphabetical"
+  - title: "Alphabetisch"
     url: /alphabetical/  
-  - title: "By year"
-    url: /archive/
+  - title: "Chronologisch"
+    url: /archive/ 
