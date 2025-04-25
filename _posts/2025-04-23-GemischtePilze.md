@@ -1,6 +1,7 @@
 ---
 title: Spaghetti mit gemischten Pilzen
 tags: type-noodles vegetarisch lecker einfach
+last_modified_at: 2025-04-25
 ---
 ## Zutaten für 3 Personen
 - 400g Spaghetti
@@ -36,3 +37,6 @@ tags: type-noodles vegetarisch lecker einfach
 9. Verrühren und köcheln lassen.
 10. Mit Salz & Pfeffer abschmecken.
 11. Servieren.
+
+## Notizen
+* Reste nach dem Essen zusammengerührt im Kühlschrank aufbewahren. Es schmeckt zwei Tage später aufgewärmt noch sehr gut.
