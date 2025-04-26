@@ -1,6 +1,6 @@
 ---
 title: Grünkohl
-tags: herbst obst herzhaft reichhaltig meat-pork side-potatoes origin-germany type-onepot
+tags: herbst obst herzhaft reichhaltig meat-pork side-potatoes origin-germany type-onepot standards
 ---
 ## Zutaten für 2 Personen / 6 Teller voll
  * 1kg Grünkohl

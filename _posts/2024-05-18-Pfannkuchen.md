@@ -1,7 +1,7 @@
 ---
 title: Pfannkuchen
-last_modified_at: 2025-04-24
-tags: suess lecker variatibel obst vegetarisch type-dessert
+last_modified_at: 2025-04-26
+tags: suess lecker variatibel obst vegetarisch type-dessert standards
 ---
 ## Zutaten für 10 Pfannkuchen
 ### Für den Teig

@@ -1,6 +1,6 @@
 ---
 title: Zwiebelkuchen
-tags: party herzhaft type-cake meat-pork origin-germany
+tags: party herzhaft type-cake meat-pork origin-germany standards
 ---
 
 ## Zutaten für 1 Blech

@@ -1,6 +1,7 @@
 ---
 title: Zitronenschnitten
-tags: vegetarisch lecker geburtstag type-cake party
+tags: vegetarisch lecker geburtstag type-cake party standards
+excerpt: Ein leckerer Zitronenkuchen, perfekt für Kindergeburtstage und Gartenparties.
 ---
 ## Zutaten für 1 Blech
 ### Für den Teig

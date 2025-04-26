@@ -1,6 +1,6 @@
 ---
 title: Kartoffelgratin
-tags: reichhaltig vegetarisch knoblauch variabel einfach meat-pork side-potatoes type-casserole origin-france
+tags: reichhaltig vegetarisch knoblauch variabel einfach meat-pork side-potatoes type-casserole origin-france standards
 ---
 
 ## Zutaten für 4 Portionen 

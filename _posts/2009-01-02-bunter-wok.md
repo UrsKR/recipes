@@ -1,6 +1,7 @@
 ---
 title: Bunter Wok
-tags: experimentell variabel schnell einfach type-wok meat-pork side-rice
+tags: experimentell variabel schnell einfach type-wok meat-pork side-rice standards
+last_modified_at: 2025-04-26
 ---
 ## Zutaten für 4 Portionen
 * 1 EL Öl  

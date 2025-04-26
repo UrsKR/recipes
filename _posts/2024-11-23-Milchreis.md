@@ -1,6 +1,7 @@
 ---
 title: Milchreis
-tags: vegetarisch suess type-dessert
+tags: vegetarisch suess type-dessert standards
+last_modified_at: 2025-04-26
 ---
 ## Zutaten für 3 Personen
  * 250g Milchreis

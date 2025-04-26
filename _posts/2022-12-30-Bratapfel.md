@@ -1,6 +1,7 @@
 ---
 title: Bratapfel
-tags: lecker einfach vegetarisch type-dessert origin-germany
+tags: lecker einfach vegetarisch type-dessert origin-germany standards
+last_modified_at: 2025-04-26
 ---
 ## Zutaten für 2 Portionen
  * 2 große Äpfel

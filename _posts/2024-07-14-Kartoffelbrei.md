@@ -1,7 +1,7 @@
 ---
 title: Kartoffelbrei
-last_modified_at: 2025-04-23
-tags: vegetarisch type-side side-potatoes lowfat30
+last_modified_at: 2025-04-26
+tags: vegetarisch type-side side-potatoes standards
 ---
 ## Zutaten für 4 Personen
  * 1,5kg Kartoffeln
