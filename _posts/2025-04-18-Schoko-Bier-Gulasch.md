@@ -1,7 +1,8 @@
 ---
 title: Schoko-Bier-Gulasch
-last_modified_at: 2025-04-23
+last_modified_at: 2025-04-26
 tags: gaeste lecker aufwaendig scharf type-onepot side-potatoes meat-beef
+excerpt: Ein Gulasch variabler Schärfe, hervorragend im Voraus zu bereiten und dennoch nicht simpel.
 ---
 ## Zutaten für 4 Personen
 - 1-5 rote Chilis

@@ -1,7 +1,8 @@
 ---
 title: Fixer Lachs
-last_modified_at: 2025-04-23
+last_modified_at: 2025-04-26
 tags: knoblauch type-stirfry meat-salmon fisch
+excerpt: Schnell und einfach. So muss Fisch sein.
 ---
 ## Zutaten für 2 Personen
  * 2 mittelgroße Lachsfilets (ca. 250g)
