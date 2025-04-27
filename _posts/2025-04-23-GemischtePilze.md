@@ -2,7 +2,7 @@
 title: Spaghetti mit gemischten Pilzen
 tags: type-noodles vegetarisch lecker einfach
 last_modified_at: 2025-04-26
-excerpt: Raffinierte Sauce, einfach zubereitet
+excerpt: Raffinierte Sauce, einfach zubereitet.
 ---
 ## Zutaten für 3 Personen
 - 400g Spaghetti
