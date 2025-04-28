@@ -9,7 +9,7 @@ tags: type-soup meat-chicken origin-russia aufwändig variabel lecker side-bread
 * 2 Pimentkörner
 * 1 Weißkohl, etwa 600g
 * 2 Salz-Dill-Gurken
-* 1/8l trockener Weißwein (paleo: Sünde)
+* 1/8l trockener Weißwein
 * 100g Creme Fraîche
 * Dillspitzen
 * Salz und Pfeffer

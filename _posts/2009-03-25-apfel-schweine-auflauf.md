@@ -1,17 +1,17 @@
 --- 
 title: Apfelschwein 
 last_modified_at: 2025-04-22
-tags: suess paleo-lakto einfach type-casserole meat-pork side-rice
+tags: suess einfach type-casserole meat-pork side-rice
 ---
 ## Zutaten für 3 Personen
 * 500g Schweineschnitzel oder -filet
 * 4 mittelgroße Äpfel
-* 300g Reis (paleo: weglassen)
+* 300g Reis
 * 200g Sahne
 * 1 TL Currypulver
 * Salz und Pfeffer zum Abschmecken
-* 3EL Ketchup (paleo: selbstgemacht) (anderes Rezept: 3TL?)
-* 50 Gramm geriebener Gouda (paleo: weglassen)
+* 3EL Ketchup (anderes Rezept: 3TL?)
+* 50 Gramm geriebener
 
 ## Material
 * Auflaufform
