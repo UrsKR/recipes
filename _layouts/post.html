@@ -2,18 +2,18 @@
 layout: single
 ---
 {% assign type = 'type-dish' %}
+{% assign freetags = '' %}
 {% for tag in page.tags %}
   {% if tag contains 'type' %}
     {% assign type = tag %}
-  {% endif %}
-  {% if tag contains 'meat' %}
+  {% elsif tag contains 'meat' %}
     {% assign meat = tag %}
-  {% endif %}
-  {% if tag contains 'side' %}
+  {% elsif tag contains 'side' %}
     {% assign side = tag %}
-  {% endif %}
-  {% if tag contains 'origin' %}
+  {% elsif tag contains 'origin' %}
     {% assign origin = tag %}
+  {% else %}
+    {% assign freetags = freetags | append: ',' | append: tag %}
   {% endif %}
 {% endfor %}
 
@@ -36,21 +36,12 @@ layout: single
     <span>aus</span>
     {% include subtitletag.html property=origin i18n=true%}
   {% endif %}
-  <span>(</span>
-  {% for tag in page.tags %}
-    {% if tag contains 'type' %}
-      {% continue %}
-    {% endif %}
-    {% if tag contains 'meat' %}
-      {% continue %}
-    {% endif %}
-    {% if tag contains 'side' %}
-      {% continue %}
-    {% endif %}
-    {% if tag contains 'origin' %}
-      {% continue %}
-    {% endif %}
-    {% include subtitletag.html property=tag i18n=false%}
-  {% endfor %}
-  <span>)</span>
+  {% if freetags.size > 0 %}
+    <span>(</span>
+    {% assign subtitletags = freetags | split: "," %}
+    {% for tag in subtitletags %}
+      {% include subtitletag.html property=tag i18n=false%}
+    {% endfor %}
+    <span>)</span>
+  {% endif %}
 {{ content }}
