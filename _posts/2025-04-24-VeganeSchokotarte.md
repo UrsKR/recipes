@@ -1,6 +1,7 @@
 ---
 title: Vegane Schokotarte
-tags: type-cake vegan gaeste geburtstag
+tags: type-cake vegan gaeste geburtstag 
+excerpt: Ein bittersüß-sahniger no-bake-Kuchen.
 ---
 ## Zutaten
 ### Für den Boden
