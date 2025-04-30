@@ -1,6 +1,7 @@
 ---
 title: Mohrrübensalat mit Äpfeln
-tags: type-salad vegan obst variabel standards
+tags: type-salad vegan obst variabel standards schnell einfach billig lecker
+excerpt: Ein einfacher Salat für warme Tage.
 ---
 ## Für 4 Personen
 * 8 Mohrrüben
