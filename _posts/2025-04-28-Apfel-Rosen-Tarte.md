@@ -1,6 +1,7 @@
 ---
 title: Apfel-Rosen-Tarte mit Zimtschneckenboden
 tags: suess type-cake vegetarisch gaeste aufwaendig geburtstag
+excerpt: Ein eindrucksvoller und sehr aufwändiger Kuchen, der sich gut gemeinsam mit einem Gehilfen zubereiten lässt.
 ---
 ## Zutaten für eine Tarte
 * 2/3 vom Zimtschneckenrezept
