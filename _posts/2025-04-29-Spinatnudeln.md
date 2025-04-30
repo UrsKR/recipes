@@ -1,6 +1,7 @@
 ---
 title: Spinatnudeln
 tags: vegetarisch knoblauch type-noodles
+excerpt: Schnell, einfach und trotzdem lecker: Spaghettig mit Tomaten, Feta und Spinat.
 ---
 ## Zutaten für 2 Personen
  * 250g Spinat
