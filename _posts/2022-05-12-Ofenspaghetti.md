@@ -1,6 +1,7 @@
 ---
 title: Ofenspaghetti
-tags: vegetarisch type-noodles
+tags: vegetarisch type-noodles schnell einfach billig
+excerpt: Weniger Aufwand geht nur aus der Dose.
 ---
 ## Zutaten für 2-3 Personen
  * 500g Spaghetti
