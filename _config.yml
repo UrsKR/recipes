@@ -25,6 +25,7 @@ defaults:
       toc: true
       toc_label: Inhalt
       toc_sticky: true
+      show_date: true
       tagline: "" #else posts show their first line as tagline
       #header:
         #overlay_image: /assets/images/image.png
