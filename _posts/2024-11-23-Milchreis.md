@@ -1,6 +1,7 @@
 ---
 title: Milchreis
 tags: vegetarisch suess type-dessert standards
+excerpt: Süßer Milchreis - Nicht mehr, und nicht weniger.
 last_modified_at: 2025-04-26
 ---
 ## Zutaten für 3 Personen
