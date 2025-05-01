@@ -18,18 +18,18 @@ excerpt: Eine sehr aufwändige Torte, die Kinderaugen tellergroß macht und auch
 * 300 ml Milch
 * 75 g Sahne
 
-### Für die Füllung:
+### Für die Füllung
 * 300 g Frischkäse
 * 300 g Nutella
 * 200 g Sahne
 * 4 TL Sahnesteif
 
-### Für das Frosting:
+### Für das Frosting
 * 140 g Nutella
 * 200 g Frischkäse
 * 2 TL Kakaopulver (ungesüßt)
 
-### Für die Dekoration:
+### Für die Dekoration
 * 100 g Zartbitter-Schokolade
 * 50 g Butter, weich
 * Schokosüßigkeiten nach Wahl z.B. Malteserkugeln, Kinder Bueno, Smarties
@@ -54,19 +54,19 @@ excerpt: Eine sehr aufwändige Torte, die Kinderaugen tellergroß macht und auch
 * Boden in Frischhaltefolie wickeln und bis zur weiteren Verwendung im Kühlschrank ruhen lassen. Der Boden lässt sich dann besser schneiden. 
 * Zur weiteren Verwendung Boden je zweimal waagerecht durchschneiden.
 
-### Für die Creme:
+### Für die Creme
 * Frischkäse und Nutella glatt rühren. Sahne steif schlagen und Sahnesteif einrieseln lassen. 
 * Sahne vorsichtig unter die Nutellacreme heben.
 De* n ersten Boden auf eine Tortenplatte legen und mit einem Tortenring (bei der Höhe dieser Torte empfehle ich euch Tortenrandfolie zur Verlängerung des Tortenringes) umschließen. 
 * 1/5 der Creme einfüllen. Den zweiten Boden auflegen und den Vorgang wiederholen, bis Creme und Böden aufgebraucht sind. Den letzten Boden mit der Unterseite nach oben auflegen. Die Torte mit Frischhaltefolie abdecken und mind. 3 Stunden kühlen.
   
-### Für das Frosting:
+### Für das Frosting
 * Nutella und Frischkäse glatt rühren. 
 * Kakao dazugeben und nochmal verrühren. 
 * Die Torte vorsichtig aus dem Ring lösen und mit dem Frosting einstreichen. 
 * Kühlen.
 
-### Für die Deko und den Drip:
+### Für die Deko und den Drip
 * Schokolade hacken und im Wasserbad schmelzen. 
 * Die Butter zur Schokolade geben und verrühren. 
 * Sobald die Ganache die passende Konsistenz hat, mit Hilfe eines Teelöffels langsam am Tortenrand runterlaufen lassen. 
