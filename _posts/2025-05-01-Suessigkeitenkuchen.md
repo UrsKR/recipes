@@ -1,6 +1,6 @@
 ---
 title: Süßigkeitentorte
-tags: type-cake vegetarisch origin-germany torte suess reichhaltig eigenkreation geburtstag aufwaendig
+tags: type-cake vegetarisch torte suess reichhaltig geburtstag aufwaendig
 excerpt: Eine sehr aufwändige Torte, die Kinderaugen tellergroß macht und auch manchem Erwachsenen schmeckt.
 ---
 ## Zutaten für einen Kuchen
