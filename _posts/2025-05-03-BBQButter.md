@@ -1,6 +1,7 @@
 ---
 title: BBQ-Kräuterbutter
-tags: type-side side-bread vegetarisch
+tags: type-side side-bread vegetarisch unerprobt
+last_modified_at: 2025-05-05
 ---
 ## Zutaten für 6 Personen
 * 150g Butter, weich

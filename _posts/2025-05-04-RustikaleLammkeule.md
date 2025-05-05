@@ -1,6 +1,7 @@
 ---
 title: Rustikale Lammkeule
-tags: meat-lamb type-roast side-potatoes aufwaendig
+tags: meat-lamb type-roast side-potatoes aufwaendig unerprobt
+last_modified_at: 2025-05-05
 ---
 ## Zutaten für 4 Personen
 * 1,5 kg Lammkeule (inkl. Knochen)
