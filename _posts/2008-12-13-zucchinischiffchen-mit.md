@@ -1,6 +1,7 @@
 ---
 title: Zucchinischiffchen mit Hackfleischfüllung
-tags: hackfleisch einfach meat-pork side-rice
+tags: hackfleisch einfach meat-pork side-rice billig
+last_modified_at: 2025-05-05
 ---
 ## Zutaten für 2 Person
 * 2 Zucchini
@@ -17,11 +18,12 @@ tags: hackfleisch einfach meat-pork side-rice
 
 ## Material
 * Kleiner Topf für den Reis
+* Backblech
 
 ## Zeitaufwand
 45 Minuten
 
-##Zubereitung
+## Zubereitung
 * Backofen auf 200 Grad vorheizen
 * Reis nach Packungsanweisung zubereiten
 * Zuchini halbieren und das Fruchtfleisch herausnehmen. Nicht
