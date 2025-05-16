@@ -1,6 +1,6 @@
 ---
 title: Chinaschwein mit Möhren
-tags: type-wok meat-port origin-asia side-rice
+tags: type-wok meat-pork origin-asia side-rice
 last_modified_at: 2025-05-06
 ---
 ## Zutaten für 4 Personen
