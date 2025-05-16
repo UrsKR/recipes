@@ -1,18 +1,19 @@
 --- 
 title: Kaiserschmarrn 
 tags: eier sattmacher suess aufwändig type-dessert vegetarisch origin-austria
+last_modified_at: 2025-05-16
 ---
 ## Zutaten für 4 Personen
 * 1 Liter Milch
 * 500 g Mehl
-* 4 Eier, getrennt
-* 1 TL Puderzucker
-* 1 Beutel Vanillezucker
+* 8 Eier, getrennt
+* 1 Prise Salz
+* Puderzucker zum Bestäuben
 * Butter zum Ausbacken
-* Sultaninen
 * Zimt
 * Salz  
 * Obst als Mus oder Kompott
+* Wahlweise Sultaninen
 
 ## Material
 * Pfanne
@@ -26,13 +27,13 @@ tags: eier sattmacher suess aufwändig type-dessert vegetarisch origin-austria
 ## Zubereitung
 * Milch mit Mehl unter rühren zu dickem Brei kochen. Im Wasserbad
   erkalten lassen.
-* Währenddessen Eiweiß zu Schnee schlagen
+* Währenddessen Eiweiß zu Schnee schlagen.
 * Eigelb, Salz, Eischnee unter den Brei rühren.
 * In der Pfanne Butter schmelzen und den Teig in 4 Portionen bei
   mittlerer Hitze backen.
-* Jede Portion mit Sultaninen bestreuen, sobald sie in der Pfanne ist.
-* Wenn der Teig fest wird, in der Pfanne vierteln, kurz darauf wenden.
+* Nach Wahl jede Portion mit Sultaninen bestreuen, sobald sie in der Pfanne ist.
+* Wenn der Teig fest wird wenden, direkt danach in der Pfanne mit zwei Gabeln auseinanderzupfen.
 * Vor dem Servieren zerteilen.
-* Puderzucker mit Vanillezucker und Zimt mischen und Schmarrn damit
-  bestäuben.
+* Schmarn mit Puderzucker bestäuben.
+* Nach Geschmack Zimt dazu.
 * Obst (auch Kompott oder Mus) dazu.
