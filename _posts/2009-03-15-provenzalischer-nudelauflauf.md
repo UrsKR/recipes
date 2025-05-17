@@ -22,9 +22,10 @@ last_modified_at: 2025-05-17
 * Topf
 * Pfanne
 * Auflaufform
+* Backofen
 
 ## Zeitaufwand
-20 Minuten Zubereitung
+20 Minuten Zubereitung  
 20 Minuten garen
 
 ## Zubereitung

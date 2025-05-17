@@ -1,6 +1,7 @@
 ---
 title: Überbackene Ofenkartoffeln
 tags: vegetarisch type-casserole side-potatoes origin-peru
+last_modified_at: 2025-05-17
 ---
 
 ## Zutaten für 4 Personen
@@ -15,9 +16,11 @@ tags: vegetarisch type-casserole side-potatoes origin-peru
 ## Material
 * Auflaufform  
 * Messbecher  
+* Backofen
 
 ## Zeitaufwand
-ca. 1 1/4 Std.  
+~30 Minuten Vorbereitung  
+~60 Minuten im Ofen
 
 ## Zubereitung
 * Kartoffeln putzen, schälen.
