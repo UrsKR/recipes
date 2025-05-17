@@ -26,8 +26,8 @@ ca. 1 1/4 Std.
 * Form fetten.
 * Kartoffeln mit den Einschnitten nach oben in die Form setzen.
 * Mit Salz bestreuen und mit restlichem Öl beträufeln.
-* Kartoffeln im Backofen. ca. 20 Minuten backen.
-* Inzwischen den Käse fein reiben. Saure Sahne und Sahne verrühren.
+* Kartoffeln im Backofen ca. 20 Minuten backen.
+* Währenddessen den Käse fein reiben. Saure Sahne und Sahne verrühren.
 * Mit Salz und Pfeffer würzen, über die Kartoffeln gießen.
 * Geriebenen Käse darüberstreuen.
 * Kartoffeln bei gleicher Temperatur weitere 40 Minuten backen.
