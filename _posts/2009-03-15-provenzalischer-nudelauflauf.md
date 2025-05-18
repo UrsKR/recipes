@@ -1,10 +1,10 @@
 ---
 title: Provenzalischer Nudelauflauf
 tags: hackfleisch mediterran type-casserole meat-mixed side-noodles origin-france
-last_modified_at: 2025-05-17
+last_modified_at: 2025-05-18
 ---
 ## Zutaten für 4 Portionen
-* 400 g Tagliatelle
+* 400 g Tagliatelle (oder 1kg frische Tagliatelle)
 * 300 g gemischte Paprikaschoten
 * 250 g Zucchini
 * 1 Zwiebel
@@ -25,7 +25,7 @@ last_modified_at: 2025-05-17
 * Backofen
 
 ## Zeitaufwand
-20 Minuten Zubereitung  
+40 Minuten Zubereitung  
 20 Minuten garen
 
 ## Zubereitung
@@ -33,7 +33,7 @@ last_modified_at: 2025-05-17
 * In eine gefettete Form geben.
 * Paprika, Zucchini und Zwiebeln  fein würfeln.
 * Hack im heißen Öl krümmelig braten.
-* Tomaten mit Flüssigkeit, Kräuter, Gemüse und Knoblauch dazu.
+* Tomaten mit Flüssigkeit, Kräuter der Provence, Gemüse, Zwiebeln und Knoblauch dazu.
 * Unter Rühren in 8-10 Minuten offen dicklich einkochen.
 * Mit Salz und Pfeffer abschmecken. Auf die Nudeln geben.
 * Käse raspeln und mit Crème fraîche vermengen.
