@@ -1,7 +1,8 @@
 ---
 title: Zucchinischiffchen mit Fetahack
-tags: hackfleisch einfach meat-mixed side-rice gaeste
+tags: hackfleisch einfach meat-mixed side-rice gaeste mediterran
 last_modified_at: 2025-05-05
+excerpt: Ein mediterraner Klassiker.
 ---
 ## Zutaten für 2 Person
 * 2 Zucchini

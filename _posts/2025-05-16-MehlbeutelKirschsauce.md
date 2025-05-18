@@ -1,6 +1,6 @@
 ---
 title: Uromas Mehlbeutel mit Kirschsauce
-tags: suess type-dessert
+tags: suess type-dessert unerprobt
 ---
 ## Zutaten für 4 Personen
 ### Für die Mehlbeutel
