@@ -33,11 +33,12 @@ last_modified_at: 2025-05-18
 * In eine gefettete Form geben.
 * Paprika, Zucchini und Zwiebeln  fein würfeln.
 * Hack im heißen Öl krümmelig braten.
+* Ofen auf 200°C vorheizen.
 * Tomaten mit Flüssigkeit, Kräuter der Provence, Gemüse, Zwiebeln und Knoblauch dazu.
 * Unter Rühren in 8-10 Minuten offen dicklich einkochen.
 * Mit Salz und Pfeffer abschmecken. Auf die Nudeln geben.
 * Käse raspeln und mit Crème fraîche vermengen.
 * Die Käsemasse in Häufchen auf dem Auflauf verteilen.
-* Im heißen Ofen bei 200°C Ober/Unterhitze 20 Minuten backen.
+* Im heißen Ofen  20 Minuten backen.
 * Währenddessen Schnittlauch hacken.
 * Mit Schnittlauch bestreut servieren.
