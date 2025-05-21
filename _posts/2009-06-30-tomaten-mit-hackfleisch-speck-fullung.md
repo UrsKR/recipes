@@ -9,7 +9,7 @@ last_modified_at: 2025-05-21
 * 1 Zwiebel
 * 300 g gemischtes Hackfleisch
 * 1-2 Eier
-* 2 gehäufte EL Haferflocken (paleo: weglassen)
+* 2 gehäufte EL Haferflocken
 * Salz, Pfeffer
 * Öl für die Form
 
