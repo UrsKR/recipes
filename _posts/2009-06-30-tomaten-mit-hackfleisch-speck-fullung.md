@@ -1,6 +1,6 @@
 ---
 title: Tomaten mit Hackfleisch-Speck-Füllung
-tags: hackfleisch paleo-nacht auflauf gemüse 
+tags: meat-mixed type-casserole gemüse side-potatoes
 last_modified_at: 2025-05-21
 --- 
 ## Zutaten für 4 Personen**
