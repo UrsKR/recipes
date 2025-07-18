@@ -1,6 +1,6 @@
 ---
 title: Frozen Strawberry Margarita
-tags: type-drink vegetarisch alkohol meat-none unerprobt
+tags: type-drink vegetarisch alkohol unerprobt
 ---
 ## Zutaten für 4 Gläser
 175 ml Tequila

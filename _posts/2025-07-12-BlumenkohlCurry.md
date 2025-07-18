@@ -1,6 +1,6 @@
 ---
 title: Blumenkohl-Spinat-Curry
-tags: type-stirfry vegan meat-none origin-india side-rice
+tags: type-stirfry vegan origin-india side-rice
 ---
 
 ## Zutaten für 4 Portionen
