@@ -1,0 +1,21 @@
+---
+title: Spontanes Kichererbsen-Spinat-Curry
+tags: type-drink vegetarisch alkohol meat-none unerprobt
+---
+## Zutaten für 4 Gläser
+175 ml Tequila
+55 ml Curacao
+225 g gefrorene Erdbeeren
+115 ml gefronenes limeade concentrate
+1,7 l (crushed) ice
+
+## Werkzeug
+* Mixer
+
+## Dauer
+10 Minuten
+
+## Zubereitung
+* Eis im Mixer hacken, falls noch nötig.
+* Erdbeeren, Tequile, Curacao und Leade dazugeben.
+* Sähmig rühren.

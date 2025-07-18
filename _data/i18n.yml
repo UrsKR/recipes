@@ -3,6 +3,7 @@ elements:
   type-casserole: Auflauf
   type-dessert: Dessert
   type-dish: Gericht
+  type-drink: Getränk
   type-noodles: Nudelgericht
   type-onepot: Eintopf
   type-risotto: Risotto
