@@ -1,5 +1,5 @@
 ---
-title: Spontanes Kichererbsen-Spinat-Curry
+title: Frozen Strawberry Margarita
 tags: type-drink vegetarisch alkohol meat-none unerprobt
 ---
 ## Zutaten für 4 Gläser
