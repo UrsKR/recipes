@@ -3,11 +3,11 @@ title: Frozen Strawberry Margarita
 tags: type-drink vegetarisch alkohol unerprobt
 ---
 ## Zutaten für 4 Gläser
-175 ml Tequila
-55 ml 'Triple Sec' Orangenlikör (Cointreau/Curacao)
-225 g gefrorene Erdbeeren
-115 ml gefronenes limeade concentrate
-1,7 l (crushed) ice
+175 ml Tequila  
+55 ml 'Triple Sec' Orangenlikör (Cointreau/Curacao)  
+225 g gefrorene Erdbeeren  
+115 ml gefronenes limeade concentrate  
+1,7 l (crushed) ice  
 
 ## Werkzeug
 * Mixer
