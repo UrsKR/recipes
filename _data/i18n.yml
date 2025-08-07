@@ -12,6 +12,7 @@ elements:
   type-side: Beilage
   type-snack: Snack
   type-soup: Suppe
+  type-spread: Brotaufstrich
   type-stirfry: Pfannengericht
   type-tajine: Tajine
   type-wok: Wok
