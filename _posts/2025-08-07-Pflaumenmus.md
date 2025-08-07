@@ -11,7 +11,8 @@ tags: type-spread vegetarisch alkohol
 * Großer Topf
   
 ## Dauer
-10 Minuten
+* 1 Stunde Arbeitszeit
+* 28 Stunden Gesamt
 
 ## Zubereitung
 * Pflaumen mit dem Zucker 24 Stunden stehen lassen
