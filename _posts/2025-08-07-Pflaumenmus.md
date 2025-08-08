@@ -9,6 +9,7 @@ tags: type-spread vegetarisch alkohol
 
 ## Werkzeug
 * Großer Topf
+* Glaser zum Abfüllen 
   
 ## Dauer
 * 1 Stunde Arbeitszeit
@@ -16,6 +17,7 @@ tags: type-spread vegetarisch alkohol
 
 ## Zubereitung
 * Pflaumen mit dem Zucker 24 Stunden stehen lassen
-* 3 Stunden ohne rühren kochen
+* 3 Stunden bei offenem Deckel ohne rühren kochen
+* Währenddessen Gläser abkochen
 * Letzte 20 Minuten rühren
 * Rum am Ende dazugeben
