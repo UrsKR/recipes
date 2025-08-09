@@ -7,7 +7,7 @@ last_modified_at: 2025-04-23
 * 400 g durchwachsener Speck
 * 1 Zwiebel
 * 1/2 Liter Wasser
-* 400 g Bohnen
+* 800 g Bohnen
 * 6 feste grüne Kochbirnen oder
 * 3 weiche Birnen üblicher Größe
 * Bohnenkraut
@@ -29,7 +29,7 @@ last_modified_at: 2025-04-23
 * Zwiebel würfeln
 * Birnen waschen, Blütenansatz herausschneiden.
 * Wasser, Speck und die gewürfelte Zwiebel in den Topf. Wasser zum Kochen bringen und auf niedriger Temperatur ca. 20' garen.
-* Den Speck herausnehmen und beiseitestellen.
+* Den Speck herausnehmen und beiseitestellen. (Erst, wenn er weich genug ist!)
 * Bohnen in den Sud legen, mit Pfeffer, Salz und Bohnenkraut würzen.
 * Sud zum Kochen bringen und Bohnen auf mittlerer Hitze ca. 10' kochen lassen.
 * Birnen auf die Bohnen legen und ca. 10' kochen lassen.
