@@ -1,6 +1,6 @@
 ---
 title: Gurkenkimchi
-tags: origin-korea type-side
+tags: origin-korea type-side asiatisch
 ---
 ## Zutaten für 5 Personen
 * 2 Gurken
