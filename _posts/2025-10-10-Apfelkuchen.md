@@ -1,8 +1,8 @@
 ---
 title: Saftiger Apfelkuchen
-tags: origin-germany type-cake obst apfel 
+tags: origin-germany type-cake obst apfel vegetarisch meet-none
 ---
-## Zutaten für 4 Gläser
+## Zutaten
 * 8 säuerliche Äpfel
 * Zitronensaft
 * 2 Eier
