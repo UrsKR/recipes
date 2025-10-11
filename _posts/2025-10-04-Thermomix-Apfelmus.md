@@ -1,6 +1,6 @@
 ---
 title: Thermomix-Apfelmus
-tags: origin-germany type-side obst apfel thermomix vegetarisch meet-none
+tags: origin-germany type-side obst apfel thermomix vegetarisch meat-none
 ---
 ## Zutaten für 4 Gläser
 * 1,5 kg Äpfel

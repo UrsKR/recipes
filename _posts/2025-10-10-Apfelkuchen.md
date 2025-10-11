@@ -1,6 +1,6 @@
 ---
 title: Saftiger Apfelkuchen
-tags: origin-germany type-cake obst apfel vegetarisch meet-none
+tags: origin-germany type-cake obst apfel vegetarisch meat-none
 ---
 ## Zutaten
 * 8 säuerliche Äpfel

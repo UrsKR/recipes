@@ -1,6 +1,6 @@
 ---
 title: Mongolische Hackfleischnudeln
-tags: origin-mongolia type-noodles meet-beef asiatisch
+tags: origin-mongolia type-noodles meat-beef asiatisch
 ---
 ## Zutaten für 4 Portionen
 * 300g Rinderhack
