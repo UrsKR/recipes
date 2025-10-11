@@ -1,5 +1,5 @@
 ---
-title: Mongolische Hackfleischnudeln
+title: Chinesische gebratene grüne Bohnen mit Hackfleisch
 tags: origin-china type-dish meat-beef asiatisch side-rice unerprobt
 ---
 ## Zutaten für 2 Portionen
