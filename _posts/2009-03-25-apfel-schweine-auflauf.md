@@ -1,7 +1,8 @@
 --- 
 title: Apfelschwein 
 last_modified_at: 2025-04-22
-tags: suess einfach type-casserole meat-pork side-rice
+tags: suess einfach type-casserole meat-pork side-rice obst apfel
+last-modified-at: 2025-10-11
 ---
 ## Zutaten für 3 Personen
 * 500g Schweineschnitzel oder -filet

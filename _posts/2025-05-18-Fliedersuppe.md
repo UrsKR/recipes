@@ -1,6 +1,7 @@
 ---
 title: Fliedersuppe mit Quarkklößen
-tags: obst type-soup vegetarisch suess unerprobt
+tags: obst type-soup vegetarisch suess unerprobt apfel
+last-modified-at: 2025-10-11
 ---
 ## Zutaten
 ### Suppe

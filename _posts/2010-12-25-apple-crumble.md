@@ -1,6 +1,7 @@
 ---
 title: Apple Crumble
-tags: reichhaltig suess vegetarisch obst winter type-cake origin-england
+tags: reichhaltig suess vegetarisch obst winter type-cake origin-england apfel
+last-modified-at: 2025-10-11
 ---
 ## Zutaten für 6 Personen
 ### Für die Apfelmasse

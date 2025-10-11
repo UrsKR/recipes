@@ -1,6 +1,7 @@
 ---
 title: Malvern Pudding
-tags: reichhaltig aufwaendig herbst winter obst origin-england type-dessert
+tags: reichhaltig aufwaendig herbst winter obst origin-england type-dessert apfel
+last-modified-at: 2025-10-11
 ---
 ## Zutaten für 4 Personen
 ### Grundlage

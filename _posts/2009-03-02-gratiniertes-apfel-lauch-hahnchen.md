@@ -1,7 +1,7 @@
 --- 
 title: Gratiniertes Apfel-Lauch-Hähnchen 
-tags: type-casserole meat-chicken einfach instant side-rice
-last_modified_at: 2025-04-27
+tags: type-casserole meat-chicken einfach instant side-rice obst apfel
+last_modified_at: 2025-10-11
 ---
 ## Zutaten für 2 Portionen
 * 400 g Hähnchenfilet
