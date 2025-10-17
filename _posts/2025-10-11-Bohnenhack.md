@@ -1,6 +1,6 @@
 ---
 title: Chinesische gebratene grüne Bohnen mit Hackfleisch
-tags: origin-china type-dish meat-beef asiatisch side-rice unerprobt
+tags: origin-china type-dish meat-beef asiatisch side-rice
 ---
 ## Zutaten für 2 Portionen
 * 500g grüne Bohnen
