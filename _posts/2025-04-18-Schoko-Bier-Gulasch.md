@@ -1,6 +1,6 @@
 ---
 title: Schoko-Bier-Gulasch
-last_modified_at: 2025-04-26
+last_modified_at: 2025-11-15
 tags: gaeste lecker aufwaendig scharf type-onepot side-potatoes meat-beef
 excerpt: Ein Gulasch variabler Schärfe, hervorragend im Voraus zu bereiten und dennoch nicht simpel.
 ---
