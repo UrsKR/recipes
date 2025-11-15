@@ -10,13 +10,14 @@ excerpt: Ein Gulasch variabler Schärfe, hervorragend im Voraus zu bereiten und 
 - 1 große Zwiebel
 - 1 Knoblauchzehe
 - 1 TL Kümmel (oder mehr nach Belieben)
-- 1 Loorbeerblatt
+- 1 Lorbeerblatt
 - 1 TL Oregano
 - 1 TL Zimt
 - 1 Tasse starken Kaffee 
 - 1 große Dose Kidneybohnen
 - 1 Dose Pizzatomaten
 - 1 Schuss Portwein (oder trockener Roter)
+- 1 Flasche Schwarzbier
 - 1 Stück Edelbitter-Schokolade (oder mehr)
 - 2-3 festkochende große Kartoffeln
 - Salz
