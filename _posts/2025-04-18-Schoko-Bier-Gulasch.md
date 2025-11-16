@@ -1,6 +1,6 @@
 ---
 title: Schoko-Bier-Gulasch
-last_modified_at: 2025-11-15
+last_modified_at: 2025-11-16
 tags: gaeste lecker aufwaendig scharf type-onepot side-potatoes meat-beef
 excerpt: Ein Gulasch variabler Schärfe, hervorragend im Voraus zu bereiten und dennoch nicht simpel.
 ---
@@ -35,7 +35,8 @@ excerpt: Ein Gulasch variabler Schärfe, hervorragend im Voraus zu bereiten und 
 * Chilis zerkleinern und entkernen. Falls frisch in trockener Pfanne rösten - durch sind sie, wenn mans in den Atemwegen merkt.
 * Kaffee zubereiten und mit Chili mischen.
 * Rindergulasch in Stücke schneiden und portionsweise scharf anbraten. Bratensaft abgießen und aufbewahren.
-* Zwiebel & Knoblauch schneiden, glasig dünsten und mit Portwein ablöschen. 
+* Zwiebel & Knoblauch schneiden.
+* Zwiebel glasig dünsten und mit Portwein ablöschen. 
 * Knoblauchzehe und Kümmel hinzufügen und braten. Kurz danach Kaffesoße nach Bedarf hinzugeben
 * Dann Fleisch und Bratensaft ergänzen.
 * Kidneybohnen und Pizzatomaten inkl. Flüssigkeit hinzu.
