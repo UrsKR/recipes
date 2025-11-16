@@ -1,4 +1,5 @@
 elements:
+  type-breakfast: Frühstück
   type-cake: Kuchen
   type-casserole: Auflauf
   type-dessert: Dessert
@@ -37,6 +38,7 @@ elements:
   origin-africa: Afrika
   origin-asia: Asien
   origin-austria: Österreich
+  origin-canada: Kanada
   origin-china: China
   origin-england: England
   origin-france: Frankreich
