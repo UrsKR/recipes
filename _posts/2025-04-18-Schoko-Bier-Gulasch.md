@@ -40,10 +40,10 @@ excerpt: Ein Gulasch variabler Schärfe, hervorragend im Voraus zu bereiten und 
 * Knoblauchzehe und Kümmel hinzufügen und braten. Kurz danach Kaffesoße nach Bedarf hinzugeben
 * Dann Fleisch und Bratensaft ergänzen.
 * Kidneybohnen und Pizzatomaten inkl. Flüssigkeit hinzu.
-* Eine Stunde köcheln lassen, dann mit dunkler Schokolade abschmecken. Damit Schärfe regulieren.
+* Eine Stunde abgedeckt köcheln lassen, dann mit dunkler Schokolade abschmecken. Damit Schärfe regulieren.
 * Abrunden mit einer Flasche Schwarzbier und einem Loorberblatt. Zimt und Oregano dazu. Mit Salz abschmecken.
-* 2-3 Stunden bei mittlerer Flamme weiter kochen, bis das Fleisch zart ist. Dabei einkochen lassen.
-* Zum Eindicken etwa 45 Minuten vor Einde einige rohe Kartoffeln kleingeschnitten hinzufügen.
+* 2-3 Stunden bei mittlerer Flamme offen weiter kochen, bis das Fleisch zart ist. Dabei einkochen lassen.
+* Zum Eindicken etwa 45 Minuten vor Ende einige rohe Kartoffeln kleingeschnitten hinzufügen.
 
 ## Notizen
 * Beilage: Kartoffeln oder helles Brot
