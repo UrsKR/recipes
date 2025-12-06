@@ -1,9 +1,9 @@
 --- 
 title: Persischer Roter Reis 
 tags: meat-beef billig orientalisch lecker side-rice
-last_modified_at: 2025-05-04
+last_modified_at: 2025-12-06
 --- 
-## Zutaten für 4 Personen<
+## Zutaten für 4 Personen
 * 250 g Langkornreis
 * Salz
 * 500 g Weißkohl
