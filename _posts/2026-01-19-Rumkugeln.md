@@ -29,4 +29,4 @@ tags: suess lecker vegetarisch type-dessert origin-germany meat-none schokolade
 * Masse in 20 Teile stechen und zu Kugeln formen.
 
 ## Notizen
-* Optional Kugeln in Kakaopulver wälzen
+* Nach Geschmack Kugeln in Kakaopulver wälzen
