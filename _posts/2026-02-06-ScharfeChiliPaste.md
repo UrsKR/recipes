@@ -2,7 +2,7 @@
 title: Scharfe Chili-Paste
 tags: thermomix scharf meat-none vegetarisch type-sauce
 ---
-## Zutaten für 20 Kugeln
+## Zutaten für 1 Glas
 * 135g Chilischoten
 * 300g rote Paprika
 * 240g Zwiebeln
