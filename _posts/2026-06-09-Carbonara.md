@@ -1,6 +1,6 @@
 ---
 title: Spaghetti Carbonara
-tags: origin-italy type-noodles meat-pork
+tags: origin-italy type-noodles meat-pork schnell einfach billig standards
 ---
 ## Zutaten für 4 Portionen
 * Nudeln vom Vortag (~400g gekochtes Gewicht)

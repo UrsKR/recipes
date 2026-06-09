@@ -1,6 +1,6 @@
 ---
 title: Ofenspaghetti
-tags: vegetarisch type-noodles schnell einfach billig
+tags: vegetarisch type-noodles schnell einfach billig standards
 excerpt: Weniger Aufwand geht nur aus der Dose.
 last-modified-at: 2026-06-09
 ---
