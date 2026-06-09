@@ -1,6 +1,6 @@
 ---
 title: Fantakuchen
-tags: suess type-cake kids origin-germany
+tags: suess type-cake kids origin-germany geburtstag
 ---
 ## Zutaten für einen Kuchen
 * 225g Zucker
