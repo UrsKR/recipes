@@ -1,6 +1,6 @@
 ---
 title: Französische Apfeltarte
-tags: suess type-cake vegetarisch gaeste obst apfel
+tags: suess type-cake vegetarisch gaeste obst apfel origin-france
 ---
 ## Zutaten für eine Tarte
 * 125g Butter
