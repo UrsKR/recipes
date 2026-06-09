@@ -2,13 +2,14 @@
 title: Ofenspaghetti
 tags: vegetarisch type-noodles schnell einfach billig
 excerpt: Weniger Aufwand geht nur aus der Dose.
+last-modified-at: 2026-06-09
 ---
 ## Zutaten für 2-3 Personen
  * 500g Spaghetti
  * 250g Tomaten
  * 200g Feta
  * 500ml Wasser
- * 1 Knoblauchzehe
+ * 3 Knoblauchzehen
  * etwas Olivenöl
  * italienische Kräuter
  * Salz und Pfeffer
@@ -30,4 +31,7 @@ excerpt: Weniger Aufwand geht nur aus der Dose.
  * Kräuter, Salz und Pfeffer darüberstreuen.
  * Mit Olivenöl beträufeln.
  * Wasser dazu gießen
- * Im Ofen 40 Minuten garen.
+ * Im Ofen 40 Minuten garen. Währenddessen alle 10 Minuten Nudeln in der Form verteilen, damit sie nicht verkleben.
+
+## Notiz
+Mit einer halben Packung Sahne verfeinern. Dann etwas weniger Öl nehmen.
