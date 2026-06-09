@@ -17,6 +17,7 @@ elements:
   type-stirfry: Pfannengericht
   type-tajine: Tajine
   type-wok: Wok
+  type-wrap: Wrap
 
   meat-none: ohne Fleisch
   meat-beef: Rind
