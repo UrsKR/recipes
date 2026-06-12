@@ -16,9 +16,10 @@ tags: vegetarisch knoblauch type-side side-rice origin-israel lecker
 
 ## Material
  * Auflaufform
+ * Alufolie
 
 ## Zeitaufwand
- 15 Minuten Vorbereitung
+ 15 Minuten Vorbereitung  
  95 Minuten im Ofen
 
 ## Zubereitung
